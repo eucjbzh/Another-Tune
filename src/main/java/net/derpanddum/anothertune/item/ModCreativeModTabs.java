@@ -45,6 +45,8 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.WAR_WITHOUT_REASON.get());
                         pOutput.accept(ModItems.ORDER.get());
                         pOutput.accept(ModItems.WINDOVERFLOWER.get());
+
+                        pOutput.accept(ModItems.MIKU_ESSENCE.get());
                     })
                     .build());
 

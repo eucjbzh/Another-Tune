@@ -1,9 +1,10 @@
 package net.derpanddum.anothertune.item;
 
+import com.blakebr0.mysticalagriculture.api.crop.CropTier;
+import com.blakebr0.mysticalagriculture.item.EssenceItem;
 import net.derpanddum.anothertune.AnotherTune;
 import net.derpanddum.anothertune.sound.ModSounds;
 import net.minecraft.world.item.*;
-import net.minecraft.world.level.block.JukeboxBlock;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -88,6 +89,10 @@ public class ModItems {
     public static final RegistryObject<Item> WINDOVERFLOWER = ITEMS.register("wind_over_the_flower_music_disc",
             () -> new RecordItem(6, ModSounds.WINDOVERFLOWER, new Item.Properties().stacksTo(1), 4580));
 
+
+
+    public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));
+    // public static final RegistryObject<Item> TEST_CROP = ITEMS.register("huh", new Crop(CropTier.ELEMENTAL, CropType.RESOURCE, LazyIngredient.item("minecraft:gravel")));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

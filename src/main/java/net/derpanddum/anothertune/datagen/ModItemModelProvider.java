@@ -61,6 +61,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.WAR_WITHOUT_REASON);
         simpleItem(ModItems.ORDER);
         simpleItem(ModItems.WINDOVERFLOWER);
+        simpleItem(ModItems.MIKU_ESSENCE);
     }
 
     private ItemModelBuilder simpleItem(RegistryObject<Item> item) {

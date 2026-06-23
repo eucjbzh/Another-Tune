@@ -151,6 +151,10 @@ repositories {
         name = "BlakesMods"
         url = "https://maven.blakesmods.com"
     }
+    maven {
+        name = "Cursemaven"
+        url = "https://www.cursemaven.com"
+    }
 
     // Usually, you also have these included by default:
     mavenCentral()
