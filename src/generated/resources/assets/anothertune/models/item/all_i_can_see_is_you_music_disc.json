@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "anothertune:item/all_i_can_see_is_you_music_disc"
+  }
+}

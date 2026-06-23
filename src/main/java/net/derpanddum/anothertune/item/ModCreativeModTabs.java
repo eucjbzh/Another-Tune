@@ -46,6 +46,31 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.ORDER.get());
                         pOutput.accept(ModItems.WINDOVERFLOWER.get());
 
+                        // VOLUME 2
+
+                        pOutput.accept(ModItems.PANOPTICON.get());
+                        pOutput.accept(ModItems.ALLICANSEEISYOU.get());
+                        pOutput.accept(ModItems.AMYSTERIOUSPHONECALL.get());
+                        pOutput.accept(ModItems.SPOONFULLOFSPELL.get());
+
+                        pOutput.accept(ModItems.RABBIT.get());
+                        pOutput.accept(ModItems.SHUNRAN.get());
+
+                        pOutput.accept(ModItems.HEAVENSBUG.get());
+                        pOutput.accept(ModItems.LIVING_MILLENNIUM.get());
+                        pOutput.accept(ModItems.APRICOT.get());
+                        pOutput.accept(ModItems.KYUKURARIN.get());
+                        pOutput.accept(ModItems.HEATABNORMAL.get());
+                        pOutput.accept(ModItems.WRITEOVERME.get());
+
+                        pOutput.accept(ModItems.LAGTRAIN.get());
+                        pOutput.accept(ModItems.LOSTUMBRELLA.get());
+
+                        pOutput.accept(ModItems.MIRARERUMIRROR.get());
+                        pOutput.accept(ModItems.REDLANDMARKER.get());
+                        pOutput.accept(ModItems.OTSUKARE.get());
+                        pOutput.accept(ModItems.THECRUELANGELSTHESIS.get());
+
                         pOutput.accept(ModItems.MIKU_ESSENCE.get());
                     })
                     .build());

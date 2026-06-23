@@ -222,5 +222,149 @@
         "stream": true
       }
     ]
+  },
+  "allicanseeisyou": {
+    "sounds": [
+      {
+        "name": "anothertune:allicanseeisyou",
+        "stream": true
+      }
+    ]
+  },
+  "amysteriousphonecall": {
+    "sounds": [
+      {
+        "name": "anothertune:amysteriousphonecall",
+        "stream": true
+      }
+    ]
+  },
+  "apricot": {
+    "sounds": [
+      {
+        "name": "anothertune:apricot",
+        "stream": true
+      }
+    ]
+  },
+  "aspoonfulofspell": {
+    "sounds": [
+      {
+        "name": "anothertune:aspoonfulofspell",
+        "stream": true
+      }
+    ]
+  },
+  "heatabnormal": {
+    "sounds": [
+      {
+        "name": "anothertune:heatabnormal",
+        "stream": true
+      }
+    ]
+  },
+  "heavensbug": {
+    "sounds": [
+      {
+        "name": "anothertune:heavensbug",
+        "stream": true
+      }
+    ]
+  },
+  "kyukurarin": {
+    "sounds": [
+      {
+        "name": "anothertune:kyukurarin",
+        "stream": true
+      }
+    ]
+  },
+  "lagtrain": {
+    "sounds": [
+      {
+        "name": "anothertune:lagtrain",
+        "stream": true
+      }
+    ]
+  },
+  "livingmillennium": {
+    "sounds": [
+      {
+        "name": "anothertune:livingmillennium",
+        "stream": true
+      }
+    ]
+  },
+  "lostumbrella": {
+    "sounds": [
+      {
+        "name": "anothertune:lostumbrella",
+        "stream": true
+      }
+    ]
+  },
+  "mirarerumirror": {
+    "sounds": [
+      {
+        "name": "anothertune:mirarerumirror",
+        "stream": true
+      }
+    ]
+  },
+  "otsukaresummer": {
+    "sounds": [
+      {
+        "name": "anothertune:otsukaresummer",
+        "stream": true
+      }
+    ]
+  },
+  "panopticon": {
+    "sounds": [
+      {
+        "name": "anothertune:panopticon",
+        "stream": true
+      }
+    ]
+  },
+  "rabbit": {
+    "sounds": [
+      {
+        "name": "anothertune:rabbit",
+        "stream": true
+      }
+    ]
+  },
+  "redlandmarker": {
+    "sounds": [
+      {
+        "name": "anothertune:redlandmarker",
+        "stream": true
+      }
+    ]
+  },
+  "shunran": {
+    "sounds": [
+      {
+        "name": "anothertune:shunran",
+        "stream": true
+      }
+    ]
+  },
+  "thecruelangelsthesis": {
+    "sounds": [
+      {
+        "name": "anothertune:thecruelangelsthesis",
+        "stream": true
+      }
+    ]
+  },
+  "writeoverme": {
+    "sounds": [
+      {
+        "name": "anothertune:writeoverme",
+        "stream": true
+      }
+    ]
   }
 }

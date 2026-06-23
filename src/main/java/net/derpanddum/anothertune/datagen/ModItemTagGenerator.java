@@ -47,7 +47,24 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.WAR.get(),
                         ModItems.WAR_WITHOUT_REASON.get(),
                         ModItems.ORDER.get(),
-                        ModItems.WINDOVERFLOWER.get()
+                        ModItems.WINDOVERFLOWER.get(),
+                        ModItems.PANOPTICON.get(),
+                        ModItems.ALLICANSEEISYOU.get(),
+                        ModItems.AMYSTERIOUSPHONECALL.get(),
+                        ModItems.SPOONFULLOFSPELL.get(),
+                        ModItems.APRICOT.get(),
+                        ModItems.HEATABNORMAL.get(),
+                        ModItems.HEAVENSBUG.get(),
+                        ModItems.KYUKURARIN.get(),
+                        ModItems.LAGTRAIN.get(),
+                        ModItems.LIVING_MILLENNIUM.get(),
+                        ModItems.LOSTUMBRELLA.get(),
+                        ModItems.RABBIT.get(),
+                        ModItems.OTSUKARE.get(),
+                        ModItems.REDLANDMARKER.get(),
+                        ModItems.SHUNRAN.get(),
+                        ModItems.THECRUELANGELSTHESIS.get(),
+                        ModItems.WRITEOVERME.get()
                 );
 
         this.tag(ItemTags.CREEPER_DROP_MUSIC_DISCS)
@@ -76,7 +93,24 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.WAR.get(),
                         ModItems.WAR_WITHOUT_REASON.get(),
                         ModItems.ORDER.get(),
-                        ModItems.WINDOVERFLOWER.get()
+                        ModItems.WINDOVERFLOWER.get(),
+                        ModItems.PANOPTICON.get(),
+                        ModItems.ALLICANSEEISYOU.get(),
+                        ModItems.AMYSTERIOUSPHONECALL.get(),
+                        ModItems.SPOONFULLOFSPELL.get(),
+                        ModItems.APRICOT.get(),
+                        ModItems.HEATABNORMAL.get(),
+                        ModItems.HEAVENSBUG.get(),
+                        ModItems.KYUKURARIN.get(),
+                        ModItems.LAGTRAIN.get(),
+                        ModItems.LIVING_MILLENNIUM.get(),
+                        ModItems.LOSTUMBRELLA.get(),
+                        ModItems.RABBIT.get(),
+                        ModItems.OTSUKARE.get(),
+                        ModItems.REDLANDMARKER.get(),
+                        ModItems.SHUNRAN.get(),
+                        ModItems.THECRUELANGELSTHESIS.get(),
+                        ModItems.WRITEOVERME.get()
                 );
     }
 }

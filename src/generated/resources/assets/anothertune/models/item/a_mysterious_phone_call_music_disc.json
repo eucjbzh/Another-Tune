@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "anothertune:item/a_mysterious_phone_call_music_disc"
+  }
+}

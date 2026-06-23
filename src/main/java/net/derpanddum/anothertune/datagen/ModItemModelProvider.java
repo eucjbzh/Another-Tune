@@ -62,6 +62,25 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.ORDER);
         simpleItem(ModItems.WINDOVERFLOWER);
         simpleItem(ModItems.MIKU_ESSENCE);
+        simpleItem(ModItems.PANOPTICON);
+        simpleItem(ModItems.ALLICANSEEISYOU);
+        simpleItem(ModItems.AMYSTERIOUSPHONECALL);
+        simpleItem(ModItems.SPOONFULLOFSPELL);
+        simpleItem(ModItems.APRICOT);
+        simpleItem(ModItems.HEATABNORMAL);
+        simpleItem(ModItems.HEAVENSBUG);
+        simpleItem(ModItems.KYUKURARIN);
+        simpleItem(ModItems.LAGTRAIN);
+        simpleItem(ModItems.LIVING_MILLENNIUM);
+        simpleItem(ModItems.LOSTUMBRELLA);
+        simpleItem(ModItems.MIRARERUMIRROR);
+        simpleItem(ModItems.OTSUKARE);
+        simpleItem(ModItems.RABBIT);
+        simpleItem(ModItems.REDLANDMARKER);
+        simpleItem(ModItems.SHUNRAN);
+        simpleItem(ModItems.THECRUELANGELSTHESIS);
+        simpleItem(ModItems.WRITEOVERME);
+
     }
 
     private ItemModelBuilder simpleItem(RegistryObject<Item> item) {

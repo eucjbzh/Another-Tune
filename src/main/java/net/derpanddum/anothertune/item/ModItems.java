@@ -63,7 +63,7 @@ public class ModItems {
             () -> new RecordItem(6, ModSounds.PENUMBRAPHANTASM, new Item.Properties().stacksTo(1), 18000));
 
     public static final RegistryObject<Item> SOSORRY = ITEMS.register("sosorry_music_disc",
-            () -> new RecordItem(6, ModSounds.SOSORRY, new Item.Properties().stacksTo(1), 2240));
+            () -> new RecordItem(6, ModSounds.SOSORRY, new Item.Properties().stacksTo(1), 3920));
 
     public static final RegistryObject<Item> TENEBRE_ROSSO_SANGUE = ITEMS.register("tenebre_rosso_sangue_music_disc",
             () -> new RecordItem(6, ModSounds.TENEBREROSSO, new Item.Properties().stacksTo(1), 4660));
@@ -89,7 +89,61 @@ public class ModItems {
     public static final RegistryObject<Item> WINDOVERFLOWER = ITEMS.register("wind_over_the_flower_music_disc",
             () -> new RecordItem(6, ModSounds.WINDOVERFLOWER, new Item.Properties().stacksTo(1), 4580));
 
+    //VOLUME 2
 
+    public static final RegistryObject<Item> ALLICANSEEISYOU = ITEMS.register("all_i_can_see_is_you_music_disc",
+            () -> new RecordItem(6, ModSounds.ALLICANSEEISYOU, new Item.Properties().stacksTo(1), 4440));
+
+    public static final RegistryObject<Item> PANOPTICON = ITEMS.register("panopticon_music_disc",
+            () -> new RecordItem(6, ModSounds.PANOPTICON, new Item.Properties().stacksTo(1), 5100));
+
+    public static final RegistryObject<Item> AMYSTERIOUSPHONECALL = ITEMS.register("a_mysterious_phone_call_music_disc",
+            () -> new RecordItem(6, ModSounds.AMYSTERIOUSPHONECALL, new Item.Properties().stacksTo(1), 6840));
+
+    public static final RegistryObject<Item> SPOONFULLOFSPELL = ITEMS.register("spoonful_of_spell_music_disc",
+            () -> new RecordItem(6, ModSounds.ASPOONFULOFSPELL, new Item.Properties().stacksTo(1), 5380));
+
+    public static final RegistryObject<Item> APRICOT = ITEMS.register("apricot_music_disc",
+            () -> new RecordItem(6, ModSounds.APRICOT, new Item.Properties().stacksTo(1), 4120));
+
+    public static final RegistryObject<Item> HEATABNORMAL = ITEMS.register("heat_abnormal_music_disc",
+            () -> new RecordItem(6, ModSounds.HEATABNORMAL, new Item.Properties().stacksTo(1), 4800));
+
+    public static final RegistryObject<Item> HEAVENSBUG = ITEMS.register("heavens_bug_music_disc",
+            () -> new RecordItem(6, ModSounds.HEAVENSBUG, new Item.Properties().stacksTo(1), 4000));
+
+    public static final RegistryObject<Item> KYUKURARIN = ITEMS.register("kyukurarin_music_disc",
+            () -> new RecordItem(6, ModSounds.KYUKURARIN, new Item.Properties().stacksTo(1), 4340));
+
+    public static final RegistryObject<Item> LAGTRAIN = ITEMS.register("lagtrain_music_disc",
+            () -> new RecordItem(6, ModSounds.LAGTRAIN, new Item.Properties().stacksTo(1), 5020));
+
+    public static final RegistryObject<Item> LIVING_MILLENNIUM = ITEMS.register("living_millennium_music_disc",
+            () -> new RecordItem(6, ModSounds.LIVINGMILLENNIUM, new Item.Properties().stacksTo(1), 4080));
+
+    public static final RegistryObject<Item> LOSTUMBRELLA = ITEMS.register("lost_umbrella_music_disc",
+            () -> new RecordItem(6, ModSounds.LOSTUMBRELLA, new Item.Properties().stacksTo(1), 4080));
+
+    public static final RegistryObject<Item> MIRARERUMIRROR = ITEMS.register("mirareru_mirror_music_disc",
+            () -> new RecordItem(6, ModSounds.MIRARERUMIRROR, new Item.Properties().stacksTo(1), 3580));
+
+    public static final RegistryObject<Item> OTSUKARE = ITEMS.register("otsukare_summer_music_disc",
+            () -> new RecordItem(6, ModSounds.OTSUKARESUMMER, new Item.Properties().stacksTo(1), 4800));
+
+    public static final RegistryObject<Item> RABBIT = ITEMS.register("rabbit_music_disc",
+            () -> new RecordItem(6, ModSounds.RABBIT, new Item.Properties().stacksTo(1), 2940));
+
+    public static final RegistryObject<Item> REDLANDMARKER = ITEMS.register("redlandmarker_music_disc",
+            () -> new RecordItem(6, ModSounds.REDLANDMARKER, new Item.Properties().stacksTo(1), 4060));
+
+    public static final RegistryObject<Item> SHUNRAN = ITEMS.register("shunran_music_disc",
+            () -> new RecordItem(6, ModSounds.SHUNRAN, new Item.Properties().stacksTo(1), 3220));
+
+    public static final RegistryObject<Item> THECRUELANGELSTHESIS = ITEMS.register("the_cruel_angels_thesis_music_disc",
+            () -> new RecordItem(6, ModSounds.THECRUELANGELSTHESIS, new Item.Properties().stacksTo(1), 4900));
+
+    public static final RegistryObject<Item> WRITEOVERME = ITEMS.register("write_over_me_music_disc",
+            () -> new RecordItem(6, ModSounds.WRITEOVERME, new Item.Properties().stacksTo(1), 3840));
 
     public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));
     // public static final RegistryObject<Item> TEST_CROP = ITEMS.register("huh", new Crop(CropTier.ELEMENTAL, CropType.RESOURCE, LazyIngredient.item("minecraft:gravel")));

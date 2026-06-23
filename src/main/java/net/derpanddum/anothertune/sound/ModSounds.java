@@ -38,6 +38,28 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> WARWITHOUTREASON = registerSoundEvents("warwithoutreason");
     public static final RegistryObject<SoundEvent> WINDOVERFLOWER = registerSoundEvents("windovertheflower");
 
+    //VOLUME 2
+
+    public static final RegistryObject<SoundEvent> ALLICANSEEISYOU = registerSoundEvents("allicanseeisyou");
+    public static final RegistryObject<SoundEvent> AMYSTERIOUSPHONECALL = registerSoundEvents("amysteriousphonecall");
+    public static final RegistryObject<SoundEvent> APRICOT = registerSoundEvents("apricot");
+    public static final RegistryObject<SoundEvent> ASPOONFULOFSPELL = registerSoundEvents("aspoonfulofspell");
+    public static final RegistryObject<SoundEvent> HEATABNORMAL = registerSoundEvents("heatabnormal");
+    public static final RegistryObject<SoundEvent> HEAVENSBUG = registerSoundEvents("heavensbug");
+    public static final RegistryObject<SoundEvent> KYUKURARIN = registerSoundEvents("kyukurarin");
+    public static final RegistryObject<SoundEvent> LAGTRAIN = registerSoundEvents("lagtrain");
+    public static final RegistryObject<SoundEvent> LIVINGMILLENNIUM = registerSoundEvents("livingmillennium");
+    public static final RegistryObject<SoundEvent> LOSTUMBRELLA = registerSoundEvents("lostumbrella");
+    public static final RegistryObject<SoundEvent> MIRARERUMIRROR = registerSoundEvents("mirarerumirror");
+    public static final RegistryObject<SoundEvent> OTSUKARESUMMER = registerSoundEvents("otsukaresummer");
+    public static final RegistryObject<SoundEvent> PANOPTICON = registerSoundEvents("panopticon");
+    public static final RegistryObject<SoundEvent> RABBIT = registerSoundEvents("rabbit");
+    public static final RegistryObject<SoundEvent> REDLANDMARKER = registerSoundEvents("redlandmarker");
+    public static final RegistryObject<SoundEvent> SHUNRAN = registerSoundEvents("shunran");
+    public static final RegistryObject<SoundEvent> THECRUELANGELSTHESIS = registerSoundEvents("thecruelangelsthesis");
+    public static final RegistryObject<SoundEvent> WRITEOVERME = registerSoundEvents("writeoverme");
+
+
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(AnotherTune.MOD_ID, name)));
