@@ -366,5 +366,13 @@
         "stream": true
       }
     ]
+  },
+  "onlittlecatfeet": {
+    "sounds": [
+      {
+        "name": "anothertune:onlittlecatfeet",
+        "stream": true
+      }
+    ]
   }
 }

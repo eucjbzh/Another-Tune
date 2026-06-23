@@ -35,6 +35,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.IT_HAS_TO_BE_THIS_WAY.get());
                         pOutput.accept(ModItems.ITS_PIZZA_TIME.get());
                         pOutput.accept(ModItems.ITS_TIME_TO_FIGHT_CRIME.get());
+                        pOutput.accept(ModItems.ONLITTLECATFEET.get());
                         pOutput.accept(ModItems.LIVE_AND_LEARN.get());
                         pOutput.accept(ModItems.LIVE_AND_LEARN_TETO_MIX.get());
                         pOutput.accept(ModItems.MY_WAY.get());

@@ -80,6 +80,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.SHUNRAN);
         simpleItem(ModItems.THECRUELANGELSTHESIS);
         simpleItem(ModItems.WRITEOVERME);
+        simpleItem(ModItems.ONLITTLECATFEET);
 
     }
 

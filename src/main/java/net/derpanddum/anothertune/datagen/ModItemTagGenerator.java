@@ -64,7 +64,8 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.REDLANDMARKER.get(),
                         ModItems.SHUNRAN.get(),
                         ModItems.THECRUELANGELSTHESIS.get(),
-                        ModItems.WRITEOVERME.get()
+                        ModItems.WRITEOVERME.get(),
+                        ModItems.ONLITTLECATFEET.get()
                 );
 
         this.tag(ItemTags.CREEPER_DROP_MUSIC_DISCS)
@@ -110,7 +111,8 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.REDLANDMARKER.get(),
                         ModItems.SHUNRAN.get(),
                         ModItems.THECRUELANGELSTHESIS.get(),
-                        ModItems.WRITEOVERME.get()
+                        ModItems.WRITEOVERME.get(),
+                        ModItems.ONLITTLECATFEET.get()
                 );
     }
 }

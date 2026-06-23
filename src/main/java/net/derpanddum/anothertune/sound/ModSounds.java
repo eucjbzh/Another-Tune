@@ -59,6 +59,7 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> THECRUELANGELSTHESIS = registerSoundEvents("thecruelangelsthesis");
     public static final RegistryObject<SoundEvent> WRITEOVERME = registerSoundEvents("writeoverme");
 
+    public static final RegistryObject<SoundEvent> ONLITTLECATFEET = registerSoundEvents("onlittlecatfeet");
 
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {

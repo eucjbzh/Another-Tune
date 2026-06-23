@@ -1,4 +1,4 @@
-// 1.20.1	2026-06-23T12:41:46.7087392	Item Models: anothertune
+// 1.20.1	2026-06-23T15:47:48.6151732	Item Models: anothertune
 fd359129bf16998fd9ebae1f8cae0dba1d9bdf07 assets/anothertune/models/item/all_i_can_see_is_you_music_disc.json
 610af360aa0cdd91a7d1358b0e4d8b42f77d17d3 assets/anothertune/models/item/apricot_music_disc.json
 515fc27c57c02f2af24d6842a79096d8e334e6eb assets/anothertune/models/item/a_mysterious_phone_call_music_disc.json
@@ -25,6 +25,7 @@ dd12dd3882ca6105edb6be2393195786d45d23e2 assets/anothertune/models/item/live_and
 59879ce63b0ccc72ee148470d846791c9336ea2d assets/anothertune/models/item/miku_essence.json
 470eb863d6c157708f5fabab18e748638ac7c290 assets/anothertune/models/item/mirareru_mirror_music_disc.json
 63d7ec4680199f6c2963d573b9ded59060277da3 assets/anothertune/models/item/my_way_music_disc.json
+eb21db423d48a33eb275fad4e01293c6700cc64f assets/anothertune/models/item/on_little_cat_feet_music_disc.json
 875786525d1b20768b7ca62a359c8b625d1bac6f assets/anothertune/models/item/order_music_disc.json
 962ff02b887b994207cc7a336a6c2efbcbcc3c69 assets/anothertune/models/item/otsukare_summer_music_disc.json
 fd8dd1b80ba822d27d05c041113a25a291da71b5 assets/anothertune/models/item/panopticon_music_disc.json
