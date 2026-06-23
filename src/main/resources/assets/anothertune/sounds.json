@@ -1,0 +1,226 @@
+{
+  "bar_brawl": {
+    "sounds": [
+      {
+        "name": "anothertune:bar_brawl",
+        "stream": true
+      }
+    ]
+  },
+  "birdbrain": {
+    "sounds": [
+      {
+        "name": "anothertune:birdbrain",
+        "stream": true
+      }
+    ]
+  },
+  "biteme": {
+    "sounds": [
+      {
+        "name": "anothertune:biteme",
+        "stream": true
+      }
+    ]
+  },
+  "breakthroughitall": {
+    "sounds": [
+      {
+        "name": "anothertune:breakthroughitall",
+        "stream": true
+      }
+    ]
+  },
+  "findyourflame": {
+    "sounds": [
+      {
+        "name": "anothertune:findyourflame",
+        "stream": true
+      }
+    ]
+  },
+  "human": {
+    "sounds": [
+      {
+        "name": "anothertune:human",
+        "stream": true
+      }
+    ]
+  },
+  "imhererevisited": {
+    "sounds": [
+      {
+        "name": "anothertune:imhererevisited",
+        "stream": true
+      }
+    ]
+  },
+  "ithastobethisway": {
+    "sounds": [
+      {
+        "name": "anothertune:ithastobethisway",
+        "stream": true
+      }
+    ]
+  },
+  "itspizzatime": {
+    "sounds": [
+      {
+        "name": "anothertune:itspizzatime",
+        "stream": true
+      }
+    ]
+  },
+  "itstimetofightcrime": {
+    "sounds": [
+      {
+        "name": "anothertune:itstimetofightcrime",
+        "stream": true
+      }
+    ]
+  },
+  "lemonmeloncookie": {
+    "sounds": [
+      {
+        "name": "anothertune:lemonmeloncookie",
+        "stream": true
+      }
+    ]
+  },
+  "liveandlearn": {
+    "sounds": [
+      {
+        "name": "anothertune:liveandlearn",
+        "stream": true
+      }
+    ]
+  },
+  "liveandlearntetomix": {
+    "sounds": [
+      {
+        "name": "anothertune:liveandlearntetomix",
+        "stream": true
+      }
+    ]
+  },
+  "magicalcureloveshot": {
+    "sounds": [
+      {
+        "name": "anothertune:magicalcureloveshot",
+        "stream": true
+      }
+    ]
+  },
+  "myway": {
+    "sounds": [
+      {
+        "name": "anothertune:myway",
+        "stream": true
+      }
+    ]
+  },
+  "order": {
+    "sounds": [
+      {
+        "name": "anothertune:order",
+        "stream": true
+      }
+    ]
+  },
+  "penumbraphantasm": {
+    "sounds": [
+      {
+        "name": "anothertune:penumbraphantasm",
+        "stream": true
+      },
+      {
+        "name": "anothertune:ppdark",
+        "stream": true
+      },
+      {
+        "name": "anothertune:pptomorrow",
+        "stream": true
+      },
+      {
+        "name": "anothertune:pptwilight",
+        "stream": true
+      },
+      {
+        "name": "anothertune:ppunknown",
+        "stream": true
+      },
+      {
+        "name": "anothertune:ppknight",
+        "stream": true
+      },
+      {
+        "name": "anothertune:ppsixfour",
+        "stream": true
+      }
+    ]
+  },
+  "sosorry": {
+    "sounds": [
+      {
+        "name": "anothertune:sosorry",
+        "stream": true
+      }
+    ]
+  },
+  "tenebrerossosangue": {
+    "sounds": [
+      {
+        "name": "anothertune:tenebrerossosangue",
+        "stream": true
+      }
+    ]
+  },
+  "travelers": {
+    "sounds": [
+      {
+        "name": "anothertune:travelers",
+        "stream": true
+      }
+    ]
+  },
+  "triplebaka": {
+    "sounds": [
+      {
+        "name": "anothertune:triplebaka",
+        "stream": true
+      }
+    ]
+  },
+  "undefeatable": {
+    "sounds": [
+      {
+        "name": "anothertune:undefeatable",
+        "stream": true
+      }
+    ]
+  },
+  "war": {
+    "sounds": [
+      {
+        "name": "anothertune:war",
+        "stream": true
+      }
+    ]
+  },
+  "warwithoutreason": {
+    "sounds": [
+      {
+        "name": "anothertune:warwithoutreason",
+        "stream": true
+      }
+    ]
+  },
+  "windovertheflower": {
+    "sounds": [
+      {
+        "name": "anothertune:windovertheflower",
+        "stream": true
+      }
+    ]
+  }
+}

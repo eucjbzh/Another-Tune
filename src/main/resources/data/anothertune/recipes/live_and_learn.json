@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "mysticalagriculture:cognizant_dust"
+    }
+  ],
+  "result": {
+    "item": "anothertune:live_and_learn_music_disc",
+    "count": 1
+  }
+}

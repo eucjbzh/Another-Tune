@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "mysticalagriculture:awakened_supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:soulium_gemstone"
+    },
+    {
+      "item": "dimdoors:eternal_fluid_bucket"
+    }
+  ],
+  "result": {
+    "item": "anothertune:war_music_disc",
+    "count": 1
+  }
+}

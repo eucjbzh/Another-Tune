@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:tertium_essence"
+    }
+  ],
+  "result": {
+    "item": "anothertune:triple_baka_music_disc",
+    "count": 1
+  }
+}

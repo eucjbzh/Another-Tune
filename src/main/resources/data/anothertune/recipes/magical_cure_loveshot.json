@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "minecraft:sculk_shrieker"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    }
+  ],
+  "result": {
+    "item": "anothertune:magical_cure_loveshot_music_disc",
+    "count": 1
+  }
+}

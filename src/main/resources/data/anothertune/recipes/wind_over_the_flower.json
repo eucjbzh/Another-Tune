@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "minecraft:cornflower"
+    }
+  ],
+  "result": {
+    "item": "anothertune:wind_over_the_flower_music_disc",
+    "count": 1
+  }
+}

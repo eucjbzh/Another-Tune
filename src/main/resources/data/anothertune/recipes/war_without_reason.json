@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "create:steam_engine"
+    },
+    {
+      "item": "alexscaves:nuclear_bomb"
+    },
+    {
+      "item": "dimdoors:eternal_fluid_bucket"
+    }
+  ],
+  "result": {
+    "item": "anothertune:war_without_reason_music_disc",
+    "count": 1
+  }
+}

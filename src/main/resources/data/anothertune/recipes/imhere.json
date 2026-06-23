@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "anothertune:find_your_flame_music_disc"
+    },
+    {
+      "item": "mysticalagriculture:imperium_gemstone"
+    },
+    {
+      "item": "dimdoors:monolith_spawner"
+    }
+  ],
+  "result": {
+    "item": "anothertune:im_here_revisited_music_disc",
+    "count": 1
+  }
+}

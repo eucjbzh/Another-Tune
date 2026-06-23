@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "create:goggles"
+    },
+    {
+      "item": "dimdoors:rift_blade"
+    }
+  ],
+  "result": {
+    "item": "anothertune:penumbra_phantasm_music_disc",
+    "count": 1
+  }
+}

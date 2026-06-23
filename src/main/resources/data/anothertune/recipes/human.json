@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "dimdoors:white_fabric"
+    },
+    {
+      "item": "dimdoors:black_fabric"
+    }
+  ],
+  "result": {
+    "item": "anothertune:human_music_disc",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "artifacts:villager_hat"
+    },
+    {
+      "item": "mysticalagriculture:soul_jar"
+    }
+  ],
+  "result": {
+    "item": "anothertune:my_way_music_disc",
+    "count": 1
+  }
+}

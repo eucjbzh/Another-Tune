@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "anothertune:live_and_learn_music_disc"
+    },
+    {
+      "item": "anothertune:birdbrain_music_disc"
+    }
+  ],
+  "result": {
+    "item": "anothertune:live_and_learn_teto_mix_music_disc",
+    "count": 1
+  }
+}

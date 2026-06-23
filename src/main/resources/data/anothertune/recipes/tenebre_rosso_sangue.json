@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "dimdoors:eternal_fluid_bucket"
+    },
+    {
+      "item": "betternether:nether_ruby"
+    }
+  ],
+  "result": {
+    "item": "anothertune:tenebre_rosso_sangue_music_disc",
+    "count": 1
+  }
+}

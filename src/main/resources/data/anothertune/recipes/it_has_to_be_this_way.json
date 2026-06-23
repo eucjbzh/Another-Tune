@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    }
+  ],
+  "result": {
+    "item": "anothertune:it_has_to_be_this_way_music_disc",
+    "count": 1
+  }
+}

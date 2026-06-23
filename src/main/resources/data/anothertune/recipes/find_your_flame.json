@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "anothertune:break_through_it_all_music_disc"
+    },
+    {
+      "item": "mysticalagriculture:blaze_essence"
+    },
+    {
+      "item": "mysticalagriculture:blaze_essence"
+    }
+  ],
+  "result": {
+    "item": "anothertune:find_your_flame_music_disc",
+    "count": 1
+  }
+}

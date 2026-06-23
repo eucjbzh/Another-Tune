@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "minecraft:shield"
+    },
+    {
+      "item": "minecraft:netherite_axe"
+    }
+  ],
+  "result": {
+    "item": "anothertune:bar_brawl_music_disc",
+    "count": 1
+  }
+}

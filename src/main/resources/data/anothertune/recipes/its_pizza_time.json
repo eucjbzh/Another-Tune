@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "farmersdelight:tomato"
+    },
+    {
+      "item": "farmersdelight:wheat_dough"
+    },
+    {
+      "item": "farmersdelight:milk_bottle"
+    }
+  ],
+  "result": {
+    "item": "anothertune:its_pizza_time_music_disc",
+    "count": 1
+  }
+}

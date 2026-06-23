@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "minecraft:music_disc_wait"
+    }
+  ],
+  "result": {
+    "item": "anothertune:sosorry_music_disc",
+    "count": 1
+  }
+}

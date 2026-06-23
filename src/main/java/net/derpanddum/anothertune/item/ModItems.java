@@ -1,0 +1,95 @@
+package net.derpanddum.anothertune.item;
+
+import net.derpanddum.anothertune.AnotherTune;
+import net.derpanddum.anothertune.sound.ModSounds;
+import net.minecraft.world.item.*;
+import net.minecraft.world.level.block.JukeboxBlock;
+import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.RegistryObject;
+
+public class ModItems {
+    public static final DeferredRegister<Item> ITEMS =
+            DeferredRegister.create(ForgeRegistries.ITEMS, AnotherTune.MOD_ID);
+
+    public static final RegistryObject<Item> BAR_BRAWL_MUSIC_DISC = ITEMS.register("bar_brawl_music_disc",
+            () -> new RecordItem(6, ModSounds.BAR_BRAWL, new Item.Properties().stacksTo(1), 2440));
+
+    public static final RegistryObject<Item> BIRDBRAIN_MUSIC_DISC = ITEMS.register("birdbrain_music_disc",
+            () -> new RecordItem(6, ModSounds.BIRDBRAIN, new Item.Properties().stacksTo(1), 5140));
+
+    public static final RegistryObject<Item> BITE_ME_MUSIC_DISC = ITEMS.register("bite_me_music_disc",
+            () -> new RecordItem(6, ModSounds.BITE_ME, new Item.Properties().stacksTo(1), 3640));
+
+    public static final RegistryObject<Item> BREAK_THROUGH_IT_ALL_MUSIC_DISC = ITEMS.register("break_through_it_all_music_disc",
+            () -> new RecordItem(6, ModSounds.BREAKTHROUGH, new Item.Properties().stacksTo(1), 4840));
+
+    public static final RegistryObject<Item> FIND_YOUR_FLAME = ITEMS.register("find_your_flame_music_disc",
+            () -> new RecordItem(6, ModSounds.FINDYOURFLAME, new Item.Properties().stacksTo(1), 4980));
+
+    public static final RegistryObject<Item> HUMAN = ITEMS.register("human_music_disc",
+            () -> new RecordItem(6, ModSounds.HUMAN, new Item.Properties().stacksTo(1), 5360));
+
+    public static final RegistryObject<Item> IM_HERE_REVISITED = ITEMS.register("im_here_revisited_music_disc",
+            () -> new RecordItem(6, ModSounds.IMHEREREVISITED, new Item.Properties().stacksTo(1), 4940));
+
+    public static final RegistryObject<Item> IT_HAS_TO_BE_THIS_WAY = ITEMS.register("it_has_to_be_this_way_music_disc",
+            () -> new RecordItem(6, ModSounds.ITHASTOBE, new Item.Properties().stacksTo(1), 3500));
+
+    public static final RegistryObject<Item> ITS_PIZZA_TIME = ITEMS.register("its_pizza_time_music_disc",
+            () -> new RecordItem(6, ModSounds.PIZZATIME, new Item.Properties().stacksTo(1), 3540));
+
+    public static final RegistryObject<Item> ITS_TIME_TO_FIGHT_CRIME = ITEMS.register("its_time_to_fight_crime_music_disc",
+            () -> new RecordItem(6, ModSounds.FIGHTCRIME, new Item.Properties().stacksTo(1), 1800));
+
+    public static final RegistryObject<Item> LEMON_MELON_COOKIE = ITEMS.register("lemon_melon_cookie_music_disc",
+            () -> new RecordItem(6, ModSounds.LEMONMELONCOOKIE, new Item.Properties().stacksTo(1), 3060));
+
+    public static final RegistryObject<Item> LIVE_AND_LEARN = ITEMS.register("live_and_learn_music_disc",
+            () -> new RecordItem(6, ModSounds.LIVEANDLEARN, new Item.Properties().stacksTo(1), 5400));
+
+    public static final RegistryObject<Item> LIVE_AND_LEARN_TETO_MIX = ITEMS.register("live_and_learn_teto_mix_music_disc",
+            () -> new RecordItem(6, ModSounds.LIVEANDLEARNTETO, new Item.Properties().stacksTo(1), 6360));
+
+    public static final RegistryObject<Item> MAGICAL_CURE_LOVESHOT = ITEMS.register("magical_cure_loveshot_music_disc",
+            () -> new RecordItem(6, ModSounds.LOVESHOT, new Item.Properties().stacksTo(1), 4340));
+
+    public static final RegistryObject<Item> MY_WAY = ITEMS.register("my_way_music_disc",
+            () -> new RecordItem(6, ModSounds.MYWAY, new Item.Properties().stacksTo(1), 5500));
+
+    public static final RegistryObject<Item> PENUMBRA_PHANTASM = ITEMS.register("penumbra_phantasm_music_disc",
+            () -> new RecordItem(6, ModSounds.PENUMBRAPHANTASM, new Item.Properties().stacksTo(1), 18000));
+
+    public static final RegistryObject<Item> SOSORRY = ITEMS.register("sosorry_music_disc",
+            () -> new RecordItem(6, ModSounds.SOSORRY, new Item.Properties().stacksTo(1), 2240));
+
+    public static final RegistryObject<Item> TENEBRE_ROSSO_SANGUE = ITEMS.register("tenebre_rosso_sangue_music_disc",
+            () -> new RecordItem(6, ModSounds.TENEBREROSSO, new Item.Properties().stacksTo(1), 4660));
+
+    public static final RegistryObject<Item> TRAVELERS = ITEMS.register("travelers_music_disc",
+            () -> new RecordItem(6, ModSounds.TRAVELERS, new Item.Properties().stacksTo(1), 4700));
+
+    public static final RegistryObject<Item> TRIPLE_BAKA = ITEMS.register("triple_baka_music_disc",
+            () -> new RecordItem(6, ModSounds.TRIPLEBAKA, new Item.Properties().stacksTo(1), 4640));
+
+    public static final RegistryObject<Item> UNDEFEATABLE = ITEMS.register("undefeatable_music_disc",
+            () -> new RecordItem(6, ModSounds.UNDEFEATABLE, new Item.Properties().stacksTo(1), 5280));
+
+    public static final RegistryObject<Item> WAR = ITEMS.register("war_music_disc",
+            () -> new RecordItem(6, ModSounds.WAR, new Item.Properties().stacksTo(1), 7700));
+
+    public static final RegistryObject<Item> WAR_WITHOUT_REASON = ITEMS.register("war_without_reason_music_disc",
+            () -> new RecordItem(6, ModSounds.WARWITHOUTREASON, new Item.Properties().stacksTo(1), 8160));
+
+    public static final RegistryObject<Item> ORDER = ITEMS.register("order_music_disc",
+            () -> new RecordItem(6, ModSounds.ORDER, new Item.Properties().stacksTo(1), 4880));
+
+    public static final RegistryObject<Item> WINDOVERFLOWER = ITEMS.register("wind_over_the_flower_music_disc",
+            () -> new RecordItem(6, ModSounds.WINDOVERFLOWER, new Item.Properties().stacksTo(1), 4580));
+
+
+    public static void register(IEventBus eventBus) {
+        ITEMS.register(eventBus);
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "minecraft:glowstone"
+    },
+    {
+      "item": "minecraft:music_disc_cat"
+    }
+  ],
+  "result": {
+    "item": "anothertune:its_time_to_fight_crime_music_disc",
+    "count": 1
+  }
+}

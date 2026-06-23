@@ -1,0 +1,49 @@
+package net.derpanddum.anothertune.sound;
+
+import net.derpanddum.anothertune.AnotherTune;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.sounds.SoundEvent;
+import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.RegistryObject;
+
+public class ModSounds {
+    public static final DeferredRegister<SoundEvent> SOUND_EVENTS =
+            DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, AnotherTune.MOD_ID);
+
+    public static final RegistryObject<SoundEvent> BAR_BRAWL = registerSoundEvents("bar_brawl");
+    public static final RegistryObject<SoundEvent> BIRDBRAIN = registerSoundEvents("birdbrain");
+    public static final RegistryObject<SoundEvent> BITE_ME = registerSoundEvents("biteme");
+    public static final RegistryObject<SoundEvent> BREAKTHROUGH = registerSoundEvents("breakthroughitall");
+    public static final RegistryObject<SoundEvent> FINDYOURFLAME = registerSoundEvents("findyourflame");
+    public static final RegistryObject<SoundEvent> HUMAN = registerSoundEvents("human");
+    public static final RegistryObject<SoundEvent> IMHEREREVISITED = registerSoundEvents("imhererevisited");
+    public static final RegistryObject<SoundEvent> ITHASTOBE = registerSoundEvents("ithastobethisway");
+    public static final RegistryObject<SoundEvent> PIZZATIME = registerSoundEvents("itspizzatime");
+    public static final RegistryObject<SoundEvent> FIGHTCRIME = registerSoundEvents("itstimetofightcrime");
+    public static final RegistryObject<SoundEvent> LEMONMELONCOOKIE = registerSoundEvents("lemonmeloncookie");
+    public static final RegistryObject<SoundEvent> LIVEANDLEARN = registerSoundEvents("liveandlearn");
+    public static final RegistryObject<SoundEvent> LIVEANDLEARNTETO = registerSoundEvents("liveandlearntetomix");
+    public static final RegistryObject<SoundEvent> LOVESHOT = registerSoundEvents("magicalcureloveshot");
+    public static final RegistryObject<SoundEvent> MYWAY = registerSoundEvents("myway");
+    public static final RegistryObject<SoundEvent> ORDER = registerSoundEvents("order");
+    public static final RegistryObject<SoundEvent> PENUMBRAPHANTASM = registerSoundEvents("penumbraphantasm");
+    public static final RegistryObject<SoundEvent> SOSORRY = registerSoundEvents("sosorry");
+    public static final RegistryObject<SoundEvent> TENEBREROSSO = registerSoundEvents("tenebrerossosangue");
+    public static final RegistryObject<SoundEvent> TRAVELERS = registerSoundEvents("travelers");
+    public static final RegistryObject<SoundEvent> TRIPLEBAKA = registerSoundEvents("triplebaka");
+    public static final RegistryObject<SoundEvent> UNDEFEATABLE = registerSoundEvents("undefeatable");
+    public static final RegistryObject<SoundEvent> WAR = registerSoundEvents("war");
+    public static final RegistryObject<SoundEvent> WARWITHOUTREASON = registerSoundEvents("warwithoutreason");
+    public static final RegistryObject<SoundEvent> WINDOVERFLOWER = registerSoundEvents("windovertheflower");
+
+
+    private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
+        return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(AnotherTune.MOD_ID, name)));
+    }
+
+    public static void register(IEventBus eventBus) {
+        SOUND_EVENTS.register(eventBus);
+    }
+}

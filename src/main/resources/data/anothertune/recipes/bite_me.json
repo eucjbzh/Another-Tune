@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "minecraft:observer"
+    },
+    {
+      "item": "alexscaves:nuclear_bomb"
+    }
+  ],
+  "result": {
+    "item": "anothertune:bite_me_music_disc",
+    "count": 1
+  }
+}

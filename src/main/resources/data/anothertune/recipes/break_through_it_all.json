@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "anothertune:undefeatable_music_disc"
+    },
+    {
+      "item": "mutantmonsters:endersoul_hand"
+    },
+    {
+      "item": "mutantmonsters:endersoul_hand"
+    }
+  ],
+  "result": {
+    "item": "anothertune:break_through_it_all_music_disc",
+    "count": 1
+  }
+}
