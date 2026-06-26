@@ -390,5 +390,12 @@
         "stream": true
       }
     ]
+  },
+  "moonoverthecastle": {
+    "sounds": [
+      {
+        "name": "anothertune:moonoverthecastle"
+      }
+    ]
   }
 }

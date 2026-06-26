@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "mysticalagriculture;supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "minecraft;diamond"
+    }
+  ],
+  "result": {
+    "item": "anothertune:moon_over_the_castle_music_disc",
+    "count": 1
+  }
+}
