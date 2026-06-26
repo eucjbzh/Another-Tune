@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    }
+  ],
+  "result": {
+    "item": "anothertune:eggman_music_disc",
+    "count": 1
+  }
+}
