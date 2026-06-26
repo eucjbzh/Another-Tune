@@ -6,13 +6,13 @@
       "item": "mysticalagriculture:blank_record"
     },
     {
-      "item": "mysticalagriculture;supremium_essence"
+      "item": "mysticalagriculture:supremium_essence"
     },
     {
       "item": "mysticalagriculture:imperium_essence"
     },
     {
-      "item": "minecraft;diamond"
+      "item": "minecraft:diamond"
     }
   ],
   "result": {

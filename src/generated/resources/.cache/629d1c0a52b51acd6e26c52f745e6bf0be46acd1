@@ -1,4 +1,4 @@
-// 1.20.1	2026-06-26T11:43:25.7695552	Item Models: anothertune
+// 1.20.1	2026-06-26T14:36:34.0797742	Item Models: anothertune
 fd359129bf16998fd9ebae1f8cae0dba1d9bdf07 assets/anothertune/models/item/all_i_can_see_is_you_music_disc.json
 610af360aa0cdd91a7d1358b0e4d8b42f77d17d3 assets/anothertune/models/item/apricot_music_disc.json
 515fc27c57c02f2af24d6842a79096d8e334e6eb assets/anothertune/models/item/a_mysterious_phone_call_music_disc.json
@@ -32,6 +32,7 @@ eb21db423d48a33eb275fad4e01293c6700cc64f assets/anothertune/models/item/on_littl
 962ff02b887b994207cc7a336a6c2efbcbcc3c69 assets/anothertune/models/item/otsukare_summer_music_disc.json
 fd8dd1b80ba822d27d05c041113a25a291da71b5 assets/anothertune/models/item/panopticon_music_disc.json
 525e0f66918f594702aa6badc131a385d653d616 assets/anothertune/models/item/penumbra_phantasm_music_disc.json
+f559012ed27484bd2307e2df5347878106c7b94f assets/anothertune/models/item/planetary_go_music_disc.json
 c3c181986ee8d01ce6336376a711c18d4bbfd11a assets/anothertune/models/item/rabbit_music_disc.json
 82d61960f665d71912e128cfdca36fa837a5af71 assets/anothertune/models/item/redlandmarker_music_disc.json
 eb6b908b9f11cbcbfa2a3c7a4c5cab41d92ff449 assets/anothertune/models/item/shunran_music_disc.json

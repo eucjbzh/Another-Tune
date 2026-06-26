@@ -84,6 +84,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.TEMSHOP);
         simpleItem(ModItems.EGGMAN);
         simpleItem(ModItems.MOONOVERTHECASTLE);
+        simpleItem(ModItems.PLANETARYGO);
 
     }
 
