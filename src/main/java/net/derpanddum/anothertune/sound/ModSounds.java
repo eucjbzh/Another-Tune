@@ -63,6 +63,7 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> TEMSHOP = registerSoundEvents("tem_shop");
     public static final RegistryObject<SoundEvent> EGGMAN = registerSoundEvents("eggman");
     public static final RegistryObject<SoundEvent> MOONOVERTHECASTLE = registerSoundEvents("moonoverthecastle");
+    public static final RegistryObject<SoundEvent> PLANETARYGO = registerSoundEvents("planetarygo");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(AnotherTune.MOD_ID, name)));

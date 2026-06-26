@@ -134,6 +134,12 @@
   "item.anothertune.eggman_music_disc": "§bMusic Disc",
   "item.anothertune.eggman_music_disc.desc": "Paul Shortino - E.G.G.M.A.N.",
 
+  "item.anothertune.moon_over_the_castle_music_disc": "§bMusic Disc",
+  "item.anothertune.moon_over_the_castle_music_disc.desc": "Masahiro Ando and T-SQUARE - Moon Over The Castle (GT7 version)",
+
+  "item.anothertune.planetary_go_music_disc": "§bMusic Disc",
+  "item.anothertune.planetary_go_music_disc.desc": "My Chemical Romance - Planetary(GO!)",
+
   "item.anothertune.miku_essence": "Miku Essence",
 
   "creativetab.tutorial_tab": "Another Tune"

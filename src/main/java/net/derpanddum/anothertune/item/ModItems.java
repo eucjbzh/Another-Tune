@@ -157,6 +157,9 @@ public class ModItems {
     public static final RegistryObject<Item> MOONOVERTHECASTLE = ITEMS.register("moon_over_the_castle_music_disc",
             () -> new RecordItem(6, ModSounds.MOONOVERTHECASTLE, new Item.Properties().stacksTo(1),8720));
 
+    public static final RegistryObject<Item> PLANETARYGO = ITEMS.register("planetary_go_music_disc",
+            () -> new RecordItem(6, ModSounds.PLANETARYGO, new Item.Properties().stacksTo(1),4920));
+
     public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));
     // public static final RegistryObject<Item> TEST_CROP = ITEMS.register("huh", new Crop(CropTier.ELEMENTAL, CropType.RESOURCE, LazyIngredient.item("minecraft:gravel")));
 

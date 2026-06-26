@@ -394,7 +394,16 @@
   "moonoverthecastle": {
     "sounds": [
       {
-        "name": "anothertune:moonoverthecastle"
+        "name": "anothertune:moonoverthecastle",
+        "stream": true
+      }
+    ]
+  },
+  "planetarygo": {
+    "sounds": [
+      {
+        "name": "anothertune:planetarygo",
+        "stream": true
       }
     ]
   }
