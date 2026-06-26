@@ -72,6 +72,8 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.OTSUKARE.get());
                         pOutput.accept(ModItems.THECRUELANGELSTHESIS.get());
 
+                        pOutput.accept(ModItems.TEMSHOP.get());
+
                         pOutput.accept(ModItems.MIKU_ESSENCE.get());
                     })
                     .build());

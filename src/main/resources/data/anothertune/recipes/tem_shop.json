@@ -6,14 +6,14 @@
       "item": "mysticalagriculture:blank_record"
     },
     {
-      "item": "minecraft:chicken"
+      "item": "minecraft:book_and_quill"
     },
     {
-      "item": "minecraft:rotten_flesh"
+      "item": "minecraft:blue_dye"
     }
   ],
   "result": {
-    "item": "anothertune:birdbrain_music_disc",
+    "item": "anothertune:tem_shop_music_disc",
     "count": 1
   }
 }

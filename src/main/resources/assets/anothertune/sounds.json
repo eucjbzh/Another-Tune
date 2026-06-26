@@ -374,5 +374,13 @@
         "stream": true
       }
     ]
+  },
+  "tem_shop": {
+    "sounds": [
+      {
+        "name": "anothertune:tem_shop",
+        "stream": true
+      }
+    ]
   }
 }
