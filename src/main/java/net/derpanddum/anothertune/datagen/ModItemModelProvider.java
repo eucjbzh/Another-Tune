@@ -82,6 +82,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.WRITEOVERME);
         simpleItem(ModItems.ONLITTLECATFEET);
         simpleItem(ModItems.TEMSHOP);
+        simpleItem(ModItems.EGGMAN);
 
     }
 

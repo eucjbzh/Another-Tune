@@ -382,5 +382,13 @@
         "stream": true
       }
     ]
+  },
+  "eggman": {
+    "sounds": [
+      {
+        "name":"anothertune:eggman",
+        "stream": true
+      }
+    ]
   }
 }

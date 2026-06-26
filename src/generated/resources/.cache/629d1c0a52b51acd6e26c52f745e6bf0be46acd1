@@ -1,4 +1,4 @@
-// 1.20.1	2026-06-25T17:22:21.7450955	Item Models: anothertune
+// 1.20.1	2026-06-26T10:41:17.6053242	Item Models: anothertune
 fd359129bf16998fd9ebae1f8cae0dba1d9bdf07 assets/anothertune/models/item/all_i_can_see_is_you_music_disc.json
 610af360aa0cdd91a7d1358b0e4d8b42f77d17d3 assets/anothertune/models/item/apricot_music_disc.json
 515fc27c57c02f2af24d6842a79096d8e334e6eb assets/anothertune/models/item/a_mysterious_phone_call_music_disc.json
@@ -6,6 +6,7 @@ fd359129bf16998fd9ebae1f8cae0dba1d9bdf07 assets/anothertune/models/item/all_i_ca
 3ce0b5cbba439619365436cfa808e3a0052e115c assets/anothertune/models/item/birdbrain_music_disc.json
 722b592416b9d7cdb0c719992aaf62edc798a98d assets/anothertune/models/item/bite_me_music_disc.json
 5a70df866aa58f8536c6105a03b842c1e4c104e0 assets/anothertune/models/item/break_through_it_all_music_disc.json
+23d842d0a3fda3fd6c455fe8943e2d0c11584349 assets/anothertune/models/item/eggman_music_disc.json
 7fac5e97d42517ff52d1f488dd329f8796fe4271 assets/anothertune/models/item/find_your_flame_music_disc.json
 831274655f7af1bed87604bd47fc0af7665bcfa2 assets/anothertune/models/item/heat_abnormal_music_disc.json
 598297f7fae6246d2de7efec94c068e3823efbb3 assets/anothertune/models/item/heavens_bug_music_disc.json
