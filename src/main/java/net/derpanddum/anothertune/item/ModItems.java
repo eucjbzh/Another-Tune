@@ -160,7 +160,7 @@ public class ModItems {
     public static final RegistryObject<Item> PLANETARYGO = ITEMS.register("planetary_go_music_disc",
             () -> new RecordItem(6, ModSounds.PLANETARYGO, new Item.Properties().stacksTo(1),4920));
 
-    public static final RegistryObject<Item> HELLOMARINA = ITEMS.register("hellomarnia",
+    public static final RegistryObject<Item> HELLOMARINA = ITEMS.register("hellomarnia_music_disc",
             () -> new RecordItem(6, ModSounds.HELLOMARINA, new Item.Properties().stacksTo(1),4020));
 
     public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));
