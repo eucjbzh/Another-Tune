@@ -406,5 +406,13 @@
         "stream": true
       }
     ]
+  },
+  "hellomarina": {
+    "sounds": [
+      {
+        "name": "anothertune:hellomarina",
+        "stream": true
+      }
+    ]
   }
 }

@@ -11,7 +11,7 @@ import net.minecraftforge.registries.RegistryObject;
 public class ModSounds {
     public static final DeferredRegister<SoundEvent> SOUND_EVENTS =
             DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, AnotherTune.MOD_ID);
-
+    public static final RegistryObject<SoundEvent> HELLOMARINA = registerSoundEvents("hellomarina");
     public static final RegistryObject<SoundEvent> BAR_BRAWL = registerSoundEvents("bar_brawl");
     public static final RegistryObject<SoundEvent> BIRDBRAIN = registerSoundEvents("birdbrain");
     public static final RegistryObject<SoundEvent> BITE_ME = registerSoundEvents("biteme");
