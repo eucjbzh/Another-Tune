@@ -414,5 +414,14 @@
         "stream": true
       }
     ]
+  },
+  "versus": {
+    "sounds": [
+      {
+        "name": "anothertune:versus",
+        "stream": true
+      }
+    ]
   }
+
 }
