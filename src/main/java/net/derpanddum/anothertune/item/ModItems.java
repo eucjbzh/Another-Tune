@@ -160,8 +160,11 @@ public class ModItems {
     public static final RegistryObject<Item> PLANETARYGO = ITEMS.register("planetary_go_music_disc",
             () -> new RecordItem(6, ModSounds.PLANETARYGO, new Item.Properties().stacksTo(1),4920));
 
-    public static final RegistryObject<Item> HELLOMARINA = ITEMS.register("hellomarnia_music_disc",
+    public static final RegistryObject<Item> HELLOMARINA = ITEMS.register("hello_marina_music_disc",
             () -> new RecordItem(6, ModSounds.HELLOMARINA, new Item.Properties().stacksTo(1),4020));
+
+    public static final RegistryObject<Item> VERSUS = ITEMS.register("versus_music_disc",
+            () -> new RecordItem(6, ModSounds.VERSUS, new Item.Properties().stacksTo(1),5020));
 
     public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));
     // public static final RegistryObject<Item> TEST_CROP = ITEMS.register("huh", new Crop(CropTier.ELEMENTAL, CropType.RESOURCE, LazyIngredient.item("minecraft:gravel")));

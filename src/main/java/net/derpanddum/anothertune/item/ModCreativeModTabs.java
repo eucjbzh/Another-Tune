@@ -76,8 +76,8 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.EGGMAN.get());
                         pOutput.accept(ModItems.MOONOVERTHECASTLE.get());
                         pOutput.accept(ModItems.PLANETARYGO.get());
-
                         pOutput.accept(ModItems.HELLOMARINA.get());
+                        pOutput.accept(ModItems.VERSUS.get());
 
                         pOutput.accept(ModItems.MIKU_ESSENCE.get());
                     })

@@ -70,7 +70,8 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.EGGMAN.get(),
                         ModItems.MOONOVERTHECASTLE.get(),
                         ModItems.PLANETARYGO.get(),
-                        ModItems.HELLOMARINA.get()
+                        ModItems.HELLOMARINA.get(),
+                        ModItems.VERSUS.get()
                 );
 
         this.tag(ItemTags.CREEPER_DROP_MUSIC_DISCS)
@@ -122,7 +123,8 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.EGGMAN.get(),
                         ModItems.MOONOVERTHECASTLE.get(),
                         ModItems.PLANETARYGO.get(),
-                        ModItems.HELLOMARINA.get()
+                        ModItems.HELLOMARINA.get(),
+                        ModItems.VERSUS.get()
                 );
     }
 }
