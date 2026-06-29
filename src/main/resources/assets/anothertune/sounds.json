@@ -422,6 +422,14 @@
         "stream": true
       }
     ]
+  },
+  "duel": {
+    "sounds": [
+      {
+        "name": "anothertune:duel",
+        "stream": true
+      }
+    ]
   }
 
 }

@@ -11,6 +11,9 @@ import net.minecraftforge.registries.RegistryObject;
 public class ModSounds {
     public static final DeferredRegister<SoundEvent> SOUND_EVENTS =
             DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, AnotherTune.MOD_ID);
+
+    //VOLUME 1
+
     public static final RegistryObject<SoundEvent> BAR_BRAWL = registerSoundEvents("bar_brawl");
     public static final RegistryObject<SoundEvent> BIRDBRAIN = registerSoundEvents("birdbrain");
     public static final RegistryObject<SoundEvent> BITE_ME = registerSoundEvents("biteme");
@@ -65,6 +68,7 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> PLANETARYGO = registerSoundEvents("planetarygo");
     public static final RegistryObject<SoundEvent> HELLOMARINA = registerSoundEvents("hellomarina");
     public static final RegistryObject<SoundEvent> VERSUS = registerSoundEvents("versus");
+    public static final RegistryObject<SoundEvent> DUEL = registerSoundEvents("duel");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(AnotherTune.MOD_ID, name)));

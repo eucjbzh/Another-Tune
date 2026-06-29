@@ -6,17 +6,20 @@
       "item": "mysticalagriculture:blank_record"
     },
     {
-      "item": "minecraft:egg"
+      "item": "minecraft:red_concrete"
     },
     {
-      "item": "minecraft:redstone_block"
+      "item": "minecraft:blue_concrete"
     },
     {
-      "item": "create:precision_mechanism"
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:redstone_dust"
     }
   ],
   "result": {
-    "item": "anothertune:eggman_music_disc",
+    "item": "anothertune:versus_music_disc",
     "count": 1
   }
 }

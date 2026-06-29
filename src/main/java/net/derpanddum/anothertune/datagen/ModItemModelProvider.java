@@ -87,6 +87,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.PLANETARYGO);
         simpleItem(ModItems.HELLOMARINA);
         simpleItem(ModItems.VERSUS);
+        simpleItem(ModItems.DUEL);
 
     }
 

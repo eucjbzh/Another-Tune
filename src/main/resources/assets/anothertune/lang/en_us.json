@@ -71,6 +71,9 @@
   "item.anothertune.order_music_disc": "§bMusic Disc",
   "item.anothertune.order_music_disc.desc": "Heaven Pierce Her - Order",
 
+  "item.anothertune.wind_over_the_flower_music_disc": "§bMusic Disc",
+  "item.anothertune.wind_over_the_flower_music_disc.desc": " - Wind Over The Flower",
+
   "item.anothertune.a_mysterious_phone_call_music_disc": "§bMusic Disc",
   "item.anothertune.a_mysterious_phone_call_music_disc.desc": "r-906 - A Mysterious Phone Call",
 
@@ -141,10 +144,13 @@
   "item.anothertune.planetary_go_music_disc.desc": "My Chemical Romance - Planetary(GO!)",
 
   "item.anothertune.hello_marina_music_disc": "§bMusic Disc",
-  "item.anothertune.hello_marina_music_disc.desc": "Hello Marina - INABKUMORI",
+  "item.anothertune.hello_marina_music_disc.desc": "INABKUMORI - Hello Marina",
 
   "item.anothertune.versus_music_disc": "§bMusic Disc",
   "item.anothertune.versus_music_disc.desc": "Heaven Pierce Her - Versus",
+
+  "item.anothertune.duel_music_disc": "§bMusic Disc",
+  "item.anothertune.duel_music_disc.desc": "Heaven Pierce Her - Duel(Versus Reprise)",
 
   "item.anothertune.miku_essence": "Miku Essence",
 
