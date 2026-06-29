@@ -438,5 +438,13 @@
         "stream": true
       }
     ]
+  },
+  "thedeathofgodswill": {
+    "sounds": [
+      {
+        "name": "anothertune:thedeathofgodswill",
+        "stream": true
+      }
+    ]
   }
 }

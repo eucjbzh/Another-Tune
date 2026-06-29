@@ -172,6 +172,10 @@ public class ModItems {
     public static final RegistryObject<Item> DIVINEINTERVENTION = ITEMS.register("divine_intervention_music_disc",
             () -> new RecordItem(6, ModSounds.DIVINEINTERVENTION, new Item.Properties().stacksTo(1),3120));
 
+    public static final RegistryObject<Item> THEDEATHOFGODSWILL = ITEMS.register("the_death_of_gods_will_music_disc",
+            () -> new RecordItem(6, ModSounds.THEDEATHOFGODSWILL, new Item.Properties().stacksTo(1),6220));
+
+
     public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));
     // public static final RegistryObject<Item> TEST_CROP = ITEMS.register("huh", new Crop(CropTier.ELEMENTAL, CropType.RESOURCE, LazyIngredient.item("minecraft:gravel")));
 

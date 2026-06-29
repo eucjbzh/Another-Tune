@@ -80,6 +80,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.VERSUS.get());
                         pOutput.accept(ModItems.DUEL.get());
                         pOutput.accept(ModItems.DIVINEINTERVENTION.get());
+                        pOutput.accept(ModItems.THEDEATHOFGODSWILL.get());
 
                         pOutput.accept(ModItems.MIKU_ESSENCE.get());
                     })
