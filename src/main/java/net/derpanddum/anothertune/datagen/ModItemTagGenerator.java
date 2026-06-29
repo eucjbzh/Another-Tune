@@ -72,7 +72,8 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.PLANETARYGO.get(),
                         ModItems.HELLOMARINA.get(),
                         ModItems.VERSUS.get(),
-                        ModItems.DUEL.get()
+                        ModItems.DUEL.get(),
+                        ModItems.DIVINEINTERVENTION.get()
                 );
 
         this.tag(ItemTags.CREEPER_DROP_MUSIC_DISCS)
@@ -126,7 +127,8 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.PLANETARYGO.get(),
                         ModItems.HELLOMARINA.get(),
                         ModItems.VERSUS.get(),
-                        ModItems.DUEL.get()
+                        ModItems.DUEL.get(),
+                        ModItems.DIVINEINTERVENTION.get()
                 );
     }
 }

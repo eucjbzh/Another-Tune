@@ -169,6 +169,9 @@ public class ModItems {
     public static final RegistryObject<Item> DUEL = ITEMS.register("duel_music_disc",
             () -> new RecordItem(6, ModSounds.DUEL, new Item.Properties().stacksTo(1),7300));
 
+    public static final RegistryObject<Item> DIVINEINTERVENTION = ITEMS.register("divine_intervention_music_disc",
+            () -> new RecordItem(6, ModSounds.DIVINEINTERVENTION, new Item.Properties().stacksTo(1),3120));
+
     public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));
     // public static final RegistryObject<Item> TEST_CROP = ITEMS.register("huh", new Crop(CropTier.ELEMENTAL, CropType.RESOURCE, LazyIngredient.item("minecraft:gravel")));
 

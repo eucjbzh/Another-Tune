@@ -430,6 +430,13 @@
         "stream": true
       }
     ]
+  },
+  "divineintervention": {
+    "sounds": [
+      {
+        "name": "anothertune:divineintervention",
+        "stream": true
+      }
+    ]
   }
-
 }
