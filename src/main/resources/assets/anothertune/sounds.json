@@ -446,5 +446,13 @@
         "stream": true
       }
     ]
+  },
+  "gustygardengalaxy": {
+    "sounds": [
+      {
+        "name": "anothertune:gustygardengalaxy",
+        "stream": true
+      }
+    ]
   }
 }

@@ -84,7 +84,7 @@ public class ModItems {
             () -> new RecordItem(6, ModSounds.WARWITHOUTREASON, new Item.Properties().stacksTo(1), 8160));
 
     public static final RegistryObject<Item> ORDER = ITEMS.register("order_music_disc",
-            () -> new RecordItem(6, ModSounds.ORDER, new Item.Properties().stacksTo(1), 4880));
+            () -> new RecordItem(6, ModSounds.ORDER, new Item.Properties().stacksTo(1),8400));
 
     public static final RegistryObject<Item> WINDOVERFLOWER = ITEMS.register("wind_over_the_flower_music_disc",
             () -> new RecordItem(6, ModSounds.WINDOVERFLOWER, new Item.Properties().stacksTo(1), 4580));
@@ -174,6 +174,9 @@ public class ModItems {
 
     public static final RegistryObject<Item> THEDEATHOFGODSWILL = ITEMS.register("the_death_of_gods_will_music_disc",
             () -> new RecordItem(6, ModSounds.THEDEATHOFGODSWILL, new Item.Properties().stacksTo(1),6220));
+
+    public static final RegistryObject<Item> GUSTYGARDENGALAXY = ITEMS.register("gusty_garden_galaxy_music_disc",
+            () -> new RecordItem(6, ModSounds.GUSTYGARDENGALAXY, new Item.Properties().stacksTo(1),4500));
 
 
     public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));

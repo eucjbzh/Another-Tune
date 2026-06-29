@@ -90,6 +90,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.DUEL);
         simpleItem(ModItems.DIVINEINTERVENTION);
         simpleItem(ModItems.THEDEATHOFGODSWILL);
+        simpleItem(ModItems.GUSTYGARDENGALAXY);
 
     }
 
