@@ -161,8 +161,11 @@
   "item.anothertune.gusty_garden_galaxy_music_disc": "§bMusic Disc",
   "item.anothertune.gusty_garden_galaxy_music_disc.desc": "Koji Kondo & Mahito Yokota - Gusty Garden Galaxy",
 
-  "item.anothertune.the_world_looks_white_music_disc": "§bMusic Disc",
-  "item.anothertune.the_world_looks_white_music_disc.desc": "Heaven Pierce Her - The World Looks White",
+  "item.anothertune.the_world_looks_white_music_disc": "§fMusic Disc",
+  "item.anothertune.the_world_looks_white_music_disc.desc": "Heaven Pierce Her - §fThe World Looks White",
+
+  "item.anothertune.the_world_looks_red_music_disc": "§cMusic Disc",
+  "item.anothertune.the_world_looks_red_music_disc.desc": "Heaven Pierce Her - §fThe World Looks §cRed",
 
   "item.anothertune.miku_essence": "Miku Essence",
 

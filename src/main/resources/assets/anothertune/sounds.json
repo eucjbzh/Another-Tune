@@ -462,5 +462,13 @@
         "stream": true
       }
     ]
+  },
+  "theworldlooksred": {
+    "sounds": [
+      {
+        "name": "anothertune:theworldlooksred",
+        "stream": true
+      }
+    ]
   }
 }
