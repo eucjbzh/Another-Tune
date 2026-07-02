@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "anothertune:item/do_robots_dream_of_eternal_sleep_music_disc"
+  }
+}

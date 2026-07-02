@@ -470,5 +470,13 @@
         "stream": true
       }
     ]
+  },
+  "dorobotsdreamofeternalsleep": {
+    "sounds": [
+      {
+        "name": "anothertune:dorobotsdreamofeternalsleep",
+        "stream": true
+      }
+    ]
   }
 }
