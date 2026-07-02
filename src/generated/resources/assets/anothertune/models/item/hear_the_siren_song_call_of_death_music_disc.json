@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "anothertune:item/hear_the_siren_song_call_of_death_music_disc"
+  }
+}

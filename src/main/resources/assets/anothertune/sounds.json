@@ -478,5 +478,13 @@
         "stream": true
       }
     ]
+  },
+  "hearthesirensongcallofdeath": {
+    "sounds": [
+      {
+        "name": "anothertune:hearthesirensongcallofdeath",
+        "stream": true
+      }
+    ]
   }
 }

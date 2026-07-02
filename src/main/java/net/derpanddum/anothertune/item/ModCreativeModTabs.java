@@ -85,6 +85,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.THEWORLDLOOKSWHITE.get());
                         pOutput.accept(ModItems.THEWORLDLOOKSRED.get());
                         pOutput.accept(ModItems.DOROBOTSDREAMOFETERNALSLEEP.get());
+                        pOutput.accept(ModItems.HEARTHESIRENSONGCALLOFDEATH.get());
 
                         pOutput.accept(ModItems.MIKU_ESSENCE.get());
                     })
