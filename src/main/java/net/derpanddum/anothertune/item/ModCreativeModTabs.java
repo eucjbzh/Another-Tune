@@ -82,6 +82,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.DIVINEINTERVENTION.get());
                         pOutput.accept(ModItems.THEDEATHOFGODSWILL.get());
                         pOutput.accept(ModItems.GUSTYGARDENGALAXY.get());
+                        pOutput.accept(ModItems.THEWORLDLOOKSWHITE.get());
 
                         pOutput.accept(ModItems.MIKU_ESSENCE.get());
                     })

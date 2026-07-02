@@ -72,6 +72,7 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> DIVINEINTERVENTION = registerSoundEvents("divineintervention");
     public static final RegistryObject<SoundEvent> THEDEATHOFGODSWILL = registerSoundEvents("thedeathofgodswill");
     public static final RegistryObject<SoundEvent> GUSTYGARDENGALAXY = registerSoundEvents("gustygardengalaxy");
+    public static final RegistryObject<SoundEvent> THEWORLDLOOKSWHITE = registerSoundEvents("theworldlookswhite");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(AnotherTune.MOD_ID, name)));

@@ -454,5 +454,13 @@
         "stream": true
       }
     ]
+  },
+  "theworldlookswhite": {
+    "sounds": [
+      {
+        "name": "anothertune:theworldlookswhite",
+        "stream": true
+      }
+    ]
   }
 }

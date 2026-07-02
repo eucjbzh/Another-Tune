@@ -75,7 +75,8 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.DUEL.get(),
                         ModItems.DIVINEINTERVENTION.get(),
                         ModItems.THEDEATHOFGODSWILL.get(),
-                        ModItems.GUSTYGARDENGALAXY.get()
+                        ModItems.GUSTYGARDENGALAXY.get(),
+                        ModItems.THEWORLDLOOKSWHITE.get()
                 );
 
         this.tag(ItemTags.CREEPER_DROP_MUSIC_DISCS)
@@ -132,7 +133,8 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.DUEL.get(),
                         ModItems.DIVINEINTERVENTION.get(),
                         ModItems.THEDEATHOFGODSWILL.get(),
-                        ModItems.GUSTYGARDENGALAXY.get()
+                        ModItems.GUSTYGARDENGALAXY.get(),
+                        ModItems.THEWORLDLOOKSWHITE.get()
                 );
     }
 }

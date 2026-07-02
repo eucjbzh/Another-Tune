@@ -178,6 +178,9 @@ public class ModItems {
     public static final RegistryObject<Item> GUSTYGARDENGALAXY = ITEMS.register("gusty_garden_galaxy_music_disc",
             () -> new RecordItem(6, ModSounds.GUSTYGARDENGALAXY, new Item.Properties().stacksTo(1),4500));
 
+    public static final RegistryObject<Item> THEWORLDLOOKSWHITE = ITEMS.register("the_world_looks_white_music_disc",
+            () -> new RecordItem(6, ModSounds.THEWORLDLOOKSWHITE, new Item.Properties().stacksTo(1),3160));
+
 
     public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));
     // public static final RegistryObject<Item> TEST_CROP = ITEMS.register("huh", new Crop(CropTier.ELEMENTAL, CropType.RESOURCE, LazyIngredient.item("minecraft:gravel")));
