@@ -502,5 +502,13 @@
         "stream": true
       }
     ]
+  },
+  "neveroddoreven": {
+    "sounds": [
+      {
+        "name": "anothertune:neveroddoreven",
+        "stream": true
+      }
+    ]
   }
 }

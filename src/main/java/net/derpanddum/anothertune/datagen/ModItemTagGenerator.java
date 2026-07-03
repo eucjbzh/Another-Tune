@@ -81,7 +81,8 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.DOROBOTSDREAMOFETERNALSLEEP.get(),
                         ModItems.HEARTHESIRENSONGCALLOFDEATH.get(),
                         ModItems.INABSENTIALOGOS.get(),
-                        ModItems.SPIRALOUT.get()
+                        ModItems.SPIRALOUT.get(),
+                        ModItems.NEVERODDOREVEN.get()
                 );
 
         this.tag(ItemTags.CREEPER_DROP_MUSIC_DISCS)
@@ -144,7 +145,8 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.DOROBOTSDREAMOFETERNALSLEEP.get(),
                         ModItems.HEARTHESIRENSONGCALLOFDEATH.get(),
                         ModItems.INABSENTIALOGOS.get(),
-                        ModItems.SPIRALOUT.get()
+                        ModItems.SPIRALOUT.get(),
+                        ModItems.NEVERODDOREVEN.get()
                 );
     }
 }
