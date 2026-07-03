@@ -1,4 +1,4 @@
-// 1.20.1	2026-07-02T13:59:21.9303249	Item Models: anothertune
+// 1.20.1	2026-07-03T11:28:28.1802322	Item Models: anothertune
 fd359129bf16998fd9ebae1f8cae0dba1d9bdf07 assets/anothertune/models/item/all_i_can_see_is_you_music_disc.json
 610af360aa0cdd91a7d1358b0e4d8b42f77d17d3 assets/anothertune/models/item/apricot_music_disc.json
 515fc27c57c02f2af24d6842a79096d8e334e6eb assets/anothertune/models/item/a_mysterious_phone_call_music_disc.json
@@ -18,6 +18,7 @@ d37a45a3d9d4b1d341346ea1648c0eb84b0dc21a assets/anothertune/models/item/hear_the
 4d8d175802e9b35df09d02c938f6fcf8370a8396 assets/anothertune/models/item/hello_marina_music_disc.json
 f9b60f0d817c9819f914520835852488194eb2ed assets/anothertune/models/item/human_music_disc.json
 90a1576026e74525dd61becb4f768ceb3c52bcb1 assets/anothertune/models/item/im_here_revisited_music_disc.json
+b660051972a09cd5a6f7614ddcf52b5cb6d3be63 assets/anothertune/models/item/in_absentia_logos_music_disc.json
 76f300c9ca9ec0b0e266a15588a75077896e080b assets/anothertune/models/item/its_pizza_time_music_disc.json
 91bac2fcfa8f6009402c6512914ecf120bdfd30a assets/anothertune/models/item/its_time_to_fight_crime_music_disc.json
 3b160bcf7736eb27032c4d973cd3f9c2369f4dff assets/anothertune/models/item/it_has_to_be_this_way_music_disc.json

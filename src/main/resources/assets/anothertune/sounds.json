@@ -486,5 +486,13 @@
         "stream": true
       }
     ]
+  },
+  "inabsentialogos": {
+    "sounds": [
+      {
+        "name": "anothertune:inabsentialogos",
+        "stream": true
+      }
+    ]
   }
 }
