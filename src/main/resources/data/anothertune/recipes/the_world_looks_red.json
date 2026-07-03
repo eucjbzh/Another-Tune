@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "anothertune:the_world_looks_white_music_disc"
+    },
+    {
+      "item": "dimdoors:eternal_fluid_bucket"
+    },
+    {
+      "item": "betternether:nether_ruby"
+    }
+  ],
+  "result": {
+    "item": "anothertune:the_world_looks_red_music_disc",
+    "count": 1
+  }
+}

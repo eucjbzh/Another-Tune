@@ -6,20 +6,17 @@
       "item": "mysticalagriculture:blank_record"
     },
     {
-      "item": "minecraft:red_dye"
+      "item": "minecraft:black_bed"
     },
     {
-      "item": "minecraft:blue_dye"
+      "item": "minecraft:quartz_pillar"
     },
     {
-      "item": "minecraft:iron_ingot"
-    },
-    {
-      "item": "minecraft:redstone"
+      "item": "minecraft:polished_blackstone"
     }
   ],
   "result": {
-    "item": "anothertune:versus_music_disc",
+    "item": "anothertune:do_robots_dream_of_eternal_sleep_music_disc",
     "count": 1
   }
 }

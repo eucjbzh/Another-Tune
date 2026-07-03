@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:skeleton_skull"
+    }
+  ],
+  "result": {
+    "item": "anothertune:the_world_looks_white_music_disc",
+    "count": 1
+  }
+}

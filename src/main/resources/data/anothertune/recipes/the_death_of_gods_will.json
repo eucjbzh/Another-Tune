@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "anothertune:divine_intervention_music_disc"
+    },
+    {
+      "item": "minecraft:diamond_sword"
+    },
+    {
+      "item": "minecraft:golden_sword"
+    }
+  ],
+  "result": {
+    "item": "anothertune:the_death_of_gods_will_music_disc",
+    "count": 1
+  }
+}

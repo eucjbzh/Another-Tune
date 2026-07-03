@@ -6,20 +6,17 @@
       "item": "mysticalagriculture:blank_record"
     },
     {
-      "item": "minecraft:red_dye"
+      "item": "minecraft:gunpowder"
     },
     {
-      "item": "minecraft:blue_dye"
+      "item": "minecraft:skeleton_skull"
     },
     {
-      "item": "minecraft:iron_ingot"
-    },
-    {
-      "item": "minecraft:redstone"
+      "item": "alexscaves:nuclear_siren"
     }
   ],
   "result": {
-    "item": "anothertune:versus_music_disc",
+    "item": "anothertune:bar_brawl_music_disc",
     "count": 1
   }
 }
