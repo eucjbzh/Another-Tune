@@ -494,5 +494,13 @@
         "stream": true
       }
     ]
+  },
+  "spiralout": {
+    "sounds": [
+      {
+        "name": "anothertune:spiralout",
+        "stream": true
+      }
+    ]
   }
 }

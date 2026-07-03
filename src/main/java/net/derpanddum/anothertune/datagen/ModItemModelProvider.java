@@ -96,6 +96,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.DOROBOTSDREAMOFETERNALSLEEP);
         simpleItem(ModItems.HEARTHESIRENSONGCALLOFDEATH);
         simpleItem(ModItems.INABSENTIALOGOS);
+        simpleItem(ModItems.SPIRALOUT);
 
     }
 
