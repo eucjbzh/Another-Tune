@@ -518,5 +518,13 @@
         "stream": true
       }
     ]
+  },
+  "mirrorrim": {
+    "sounds": [
+      {
+        "name": "anothertune:mirrorrim",
+        "stream": true
+      }
+    ]
   }
 }

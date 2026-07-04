@@ -90,6 +90,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.SPIRALOUT.get());
                         pOutput.accept(ModItems.NEVERODDOREVEN.get());
                         pOutput.accept(ModItems.NODEVILLIVEDON.get());
+                        pOutput.accept(ModItems.MIRRORRIM.get());
 
                         pOutput.accept(ModItems.MIKU_ESSENCE.get());
                     })
