@@ -205,6 +205,9 @@ public class ModItems {
     public static final RegistryObject<Item> MIRRORRIM = ITEMS.register("mirror_rim_music_disc",
             () -> new RecordItem(6, ModSounds.MIRRORRIM, new Item.Properties().stacksTo(1),3660));
 
+    public static final RegistryObject<Item> THEBREAK = ITEMS.register("the_break_music_disc",
+            () -> new RecordItem(6, ModSounds.THEBREAK, new Item.Properties().stacksTo(1),5240));
+
 
     public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));
     // public static final RegistryObject<Item> TEST_CROP = ITEMS.register("huh", new Crop(CropTier.ELEMENTAL, CropType.RESOURCE, LazyIngredient.item("minecraft:gravel")));

@@ -81,6 +81,7 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> NEVERODDOREVEN = registerSoundEvents("neveroddoreven");
     public static final RegistryObject<SoundEvent> NODEVILLIVEDON = registerSoundEvents("nodevillivedon");
     public static final RegistryObject<SoundEvent> MIRRORRIM = registerSoundEvents("mirrorrim");
+    public static final RegistryObject<SoundEvent> THEBREAK = registerSoundEvents("thebreak");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(AnotherTune.MOD_ID, name)));
