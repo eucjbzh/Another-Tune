@@ -79,6 +79,7 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> INABSENTIALOGOS = registerSoundEvents("inabsentialogos");
     public static final RegistryObject<SoundEvent> SPIRALOUT = registerSoundEvents("spiralout");
     public static final RegistryObject<SoundEvent> NEVERODDOREVEN = registerSoundEvents("neveroddoreven");
+    public static final RegistryObject<SoundEvent> NODEVILLIVEDON = registerSoundEvents("nodevillivedon");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(AnotherTune.MOD_ID, name)));
