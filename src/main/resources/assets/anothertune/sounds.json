@@ -534,5 +534,13 @@
         "stream": true
       }
     ]
+  },
+  "theshatteringcircle": {
+    "sounds": [
+      {
+        "name": "anothertune:theshatteringcircle",
+        "stream": true
+      }
+    ]
   }
 }
