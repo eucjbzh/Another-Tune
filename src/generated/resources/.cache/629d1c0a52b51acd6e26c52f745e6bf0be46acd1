@@ -1,4 +1,4 @@
-// 1.20.1	2026-07-14T13:23:15.4517111	Item Models: anothertune
+// 1.20.1	2026-07-14T14:08:55.0096896	Item Models: anothertune
 fd359129bf16998fd9ebae1f8cae0dba1d9bdf07 assets/anothertune/models/item/all_i_can_see_is_you_music_disc.json
 610af360aa0cdd91a7d1358b0e4d8b42f77d17d3 assets/anothertune/models/item/apricot_music_disc.json
 515fc27c57c02f2af24d6842a79096d8e334e6eb assets/anothertune/models/item/a_mysterious_phone_call_music_disc.json
@@ -10,6 +10,7 @@ fd359129bf16998fd9ebae1f8cae0dba1d9bdf07 assets/anothertune/models/item/all_i_ca
 cb688de22699cbde4d36ab3ae80b924bcc59c55f assets/anothertune/models/item/do_robots_dream_of_eternal_sleep_music_disc.json
 08a5e87d698f1d4673330f64c4492a456b791826 assets/anothertune/models/item/duel_music_disc.json
 23d842d0a3fda3fd6c455fe8943e2d0c11584349 assets/anothertune/models/item/eggman_music_disc.json
+328c7c857671deeb5a60fd68fcdef9c6a3fc1992 assets/anothertune/models/item/event_horizon_music_disc.json
 7fac5e97d42517ff52d1f488dd329f8796fe4271 assets/anothertune/models/item/find_your_flame_music_disc.json
 d7d76ef6c1833d59f494c75769fb9293de931ba4 assets/anothertune/models/item/gusty_garden_galaxy_music_disc.json
 d37a45a3d9d4b1d341346ea1648c0eb84b0dc21a assets/anothertune/models/item/hear_the_siren_song_call_of_death_music_disc.json

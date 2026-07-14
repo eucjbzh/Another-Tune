@@ -102,6 +102,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.MIRRORRIM);
         simpleItem(ModItems.THEBREAK);
         simpleItem(ModItems.THESHATTERINGCIRCLE);
+        simpleItem(ModItems.EVENTHORIZON);
 
     }
 

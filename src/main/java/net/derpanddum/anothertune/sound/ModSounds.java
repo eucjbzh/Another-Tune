@@ -83,6 +83,7 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> MIRRORRIM = registerSoundEvents("mirrorrim");
     public static final RegistryObject<SoundEvent> THEBREAK = registerSoundEvents("thebreak");
     public static final RegistryObject<SoundEvent> THESHATTERINGCIRCLE = registerSoundEvents("theshatteringcircle");
+    public static final RegistryObject<SoundEvent> EVENTHORIZON = registerSoundEvents("eventhorizon");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(AnotherTune.MOD_ID, name)));

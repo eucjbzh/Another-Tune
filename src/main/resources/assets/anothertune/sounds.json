@@ -542,5 +542,13 @@
         "stream": true
       }
     ]
+  },
+  "eventhorizon": {
+    "sounds": [
+      {
+        "name": "anothertune:eventhorizon",
+        "stream": true
+      }
+    ]
   }
 }
