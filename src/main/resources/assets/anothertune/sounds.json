@@ -550,5 +550,13 @@
         "stream": true
       }
     ]
+  },
+  "thefall": {
+    "sounds": [
+      {
+        "name": "anothertune:thefall",
+        "stream": true
+      }
+    ]
   }
 }

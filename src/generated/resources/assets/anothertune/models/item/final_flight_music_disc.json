@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "anothertune:item/final_flight_music_disc"
+  }
+}

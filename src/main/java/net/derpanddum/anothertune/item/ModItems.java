@@ -214,6 +214,9 @@ public class ModItems {
     public static final RegistryObject<Item> EVENTHORIZON = ITEMS.register("event_horizon_music_disc",
             () -> new RecordItem(6, ModSounds.EVENTHORIZON, new Item.Properties().stacksTo(1),6220));
 
+    public static final RegistryObject<Item> THEFALL = ITEMS.register("final_flight_music_disc",
+            () -> new RecordItem(6, ModSounds.THEFALL, new Item.Properties().stacksTo(1),3720));
+
 
     public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));
     // public static final RegistryObject<Item> TEST_CROP = ITEMS.register("huh", new Crop(CropTier.ELEMENTAL, CropType.RESOURCE, LazyIngredient.item("minecraft:gravel")));
