@@ -566,5 +566,13 @@
         "stream": true
       }
     ]
+  },
+  "ni4ni": {
+    "sounds": [
+      {
+        "name": "anothertune:ni4ni",
+        "stream": true
+      }
+    ]
   }
 }
