@@ -95,6 +95,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.THESHATTERINGCIRCLE.get());
                         pOutput.accept(ModItems.EVENTHORIZON.get());
                         pOutput.accept(ModItems.THEFALL.get());
+                        pOutput.accept(ModItems.ALTARSOFAPOSTASY.get());
 
                         pOutput.accept(ModItems.MIKU_ESSENCE.get());
                     })

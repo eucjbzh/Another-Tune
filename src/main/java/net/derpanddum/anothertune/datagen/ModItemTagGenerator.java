@@ -88,7 +88,8 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.THEBREAK.get(),
                         ModItems.THESHATTERINGCIRCLE.get(),
                         ModItems.EVENTHORIZON.get(),
-                        ModItems.THEFALL.get()
+                        ModItems.THEFALL.get(),
+                        ModItems.ALTARSOFAPOSTASY.get()
                 );
 
         this.tag(ItemTags.CREEPER_DROP_MUSIC_DISCS)
@@ -158,7 +159,8 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.THEBREAK.get(),
                         ModItems.THESHATTERINGCIRCLE.get(),
                         ModItems.EVENTHORIZON.get(),
-                        ModItems.THEFALL.get()
+                        ModItems.THEFALL.get(),
+                        ModItems.ALTARSOFAPOSTASY.get()
                 );
     }
 }

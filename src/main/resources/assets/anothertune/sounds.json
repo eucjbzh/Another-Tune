@@ -558,5 +558,13 @@
         "stream": true
       }
     ]
+  },
+  "altarsofapostasy": {
+    "sounds": [
+      {
+        "name": "anothertune:altarsofapostasy",
+        "stream": true
+      }
+    ]
   }
 }
