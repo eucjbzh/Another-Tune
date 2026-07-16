@@ -471,6 +471,14 @@
       }
     ]
   },
+  "bullofhell": {
+    "sounds": [
+      {
+        "name": "anothertune:bullofhell",
+        "stream": true
+      }
+    ]
+  },
   "dorobotsdreamofeternalsleep": {
     "sounds": [
       {
@@ -483,6 +491,22 @@
     "sounds": [
       {
         "name": "anothertune:hearthesirensongcallofdeath",
+        "stream": true
+      }
+    ]
+  },
+  "sufferingleavessufferingleaves": {
+    "sounds": [
+      {
+        "name": "anothertune:sufferingleavessufferingleaves",
+        "stream": true
+      }
+    ]
+  },
+  "dansemacabre": {
+    "sounds": [
+      {
+        "name": "anothertune:dansemacabre",
         "stream": true
       }
     ]

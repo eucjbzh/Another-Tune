@@ -184,11 +184,20 @@ public class ModItems {
     public static final RegistryObject<Item> THEWORLDLOOKSRED = ITEMS.register("the_world_looks_red_music_disc",
             () -> new RecordItem(6, ModSounds.THEWORLDLOOKSRED, new Item.Properties().stacksTo(1),7980));
 
+    public static final RegistryObject<Item> BULLOFHELL = ITEMS.register("bull_of_hell_music_disc",
+            () -> new RecordItem(6, ModSounds.BULLOFHELL, new Item.Properties().stacksTo(1),4440));
+
     public static final RegistryObject<Item> DOROBOTSDREAMOFETERNALSLEEP = ITEMS.register("do_robots_dream_of_eternal_sleep_music_disc",
             () -> new RecordItem(6, ModSounds.DOROBOTSDREAMOFETERNALSLEEP, new Item.Properties().stacksTo(1),2700));
 
     public static final RegistryObject<Item> HEARTHESIRENSONGCALLOFDEATH = ITEMS.register("hear_the_siren_song_call_of_death_music_disc",
             () -> new RecordItem(6, ModSounds.HEARTHESIRENSONGCALLOFDEATH, new Item.Properties().stacksTo(1),6380));
+
+    public static final RegistryObject<Item> SUFFERINGLEAVESSUFFERINGLEAVES = ITEMS.register("suffering_leaves_suffering_leaves_music_disc",
+            () -> new RecordItem(6, ModSounds.SUFFERINGLEAVESSUFFERINGLEAVES, new Item.Properties().stacksTo(1),2760 ));
+
+    public static final RegistryObject<Item> DANSEMACABRE = ITEMS.register("danse_macabre_music_disc",
+            () -> new RecordItem(6, ModSounds.DANSEMACABRE, new Item.Properties().stacksTo(1), 4300));
 
     public static final RegistryObject<Item> INABSENTIALOGOS = ITEMS.register("in_absentia_logos_music_disc",
             () -> new RecordItem(6, ModSounds.INABSENTIALOGOS, new Item.Properties().stacksTo(1),5460));

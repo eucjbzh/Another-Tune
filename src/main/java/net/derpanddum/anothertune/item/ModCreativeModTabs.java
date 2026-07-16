@@ -84,8 +84,11 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.GUSTYGARDENGALAXY.get());
                         pOutput.accept(ModItems.THEWORLDLOOKSWHITE.get());
                         pOutput.accept(ModItems.THEWORLDLOOKSRED.get());
+                        pOutput.accept(ModItems.BULLOFHELL.get());
                         pOutput.accept(ModItems.DOROBOTSDREAMOFETERNALSLEEP.get());
                         pOutput.accept(ModItems.HEARTHESIRENSONGCALLOFDEATH.get());
+                        pOutput.accept(ModItems.SUFFERINGLEAVESSUFFERINGLEAVES.get());
+                        pOutput.accept(ModItems.DANSEMACABRE.get());
                         pOutput.accept(ModItems.INABSENTIALOGOS.get());
                         pOutput.accept(ModItems.SPIRALOUT.get());
                         pOutput.accept(ModItems.NEVERODDOREVEN.get());

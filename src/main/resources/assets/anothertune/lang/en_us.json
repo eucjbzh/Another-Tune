@@ -167,11 +167,20 @@
   "item.anothertune.the_world_looks_red_music_disc": "§4Music Disc",
   "item.anothertune.the_world_looks_red_music_disc.desc": "Heaven Pierce Her - §fThe World Looks §4Red",
 
+  "item.anothertune.bull_of_hell_music_disc": "§bMusic Disc",
+  "item.anothertune.bull_of_hell_music_disc.desc": "Heaven Pierce Her - Bull of Hell",
+
   "item.anothertune.do_robots_dream_of_eternal_sleep_music_disc": "§bMusic Disc",
   "item.anothertune.do_robots_dream_of_eternal_sleep_music_disc.desc": "Heaven Pierce Her - Do Robots Dream Of Eternal Sleep?",
 
   "item.anothertune.hear_the_siren_song_call_of_death_music_disc": "§bMusic Disc",
   "item.anothertune.hear_the_siren_song_call_of_death_music_disc.desc": "Heaven Pierce Her - Hear! The Siren Song Call Of Death",
+
+  "item.anothertune.suffering_leaves_suffering_leaves_music_disc": "§bMusic Disc",
+  "item.anothertune.suffering_leaves_suffering_leaves_music_disc.desc": "Heaven Pierce Her - Suffering Leaves, Suffering Leaves",
+
+  "item.anothertune.danse_macabre_music_disc": "§bMusic Disc",
+  "item.anothertune.danse_macabre_music_disc.desc": "Heaven Pierce Her - Danse Macabre",
 
   "item.anothertune.in_absentia_logos_music_disc": "§bMusic Disc",
   "item.anothertune.in_absentia_logos_music_disc.desc": "Heaven Pierce Her - In Absentia ΛΟΓΟΣ",
@@ -205,6 +214,8 @@
 
   "item.anothertune.ni4ni_music_disc": "§bMusic Disc",
   "item.anothertune.ni4ni_music_disc.desc": "Vylet Pony - NI4NI",
+
+
 
 
   "item.anothertune.miku_essence": "Miku Essence",

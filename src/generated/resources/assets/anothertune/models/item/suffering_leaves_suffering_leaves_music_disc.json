@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "anothertune:item/suffering_leaves_suffering_leaves_music_disc"
+  }
+}

@@ -74,8 +74,11 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> GUSTYGARDENGALAXY = registerSoundEvents("gustygardengalaxy");
     public static final RegistryObject<SoundEvent> THEWORLDLOOKSWHITE = registerSoundEvents("theworldlookswhite");
     public static final RegistryObject<SoundEvent> THEWORLDLOOKSRED = registerSoundEvents("theworldlooksred");
+    public static final RegistryObject<SoundEvent> BULLOFHELL = registerSoundEvents("bullofhell");
     public static final RegistryObject<SoundEvent> DOROBOTSDREAMOFETERNALSLEEP = registerSoundEvents("dorobotsdreamofeternalsleep");
     public static final RegistryObject<SoundEvent> HEARTHESIRENSONGCALLOFDEATH = registerSoundEvents("hearthesirensongcallofdeath");
+    public static final RegistryObject<SoundEvent> SUFFERINGLEAVESSUFFERINGLEAVES = registerSoundEvents("sufferingleavessufferingleaves");
+    public static final RegistryObject<SoundEvent> DANSEMACABRE = registerSoundEvents("dansemacabre");
     public static final RegistryObject<SoundEvent> INABSENTIALOGOS = registerSoundEvents("inabsentialogos");
     public static final RegistryObject<SoundEvent> SPIRALOUT = registerSoundEvents("spiralout");
     public static final RegistryObject<SoundEvent> NEVERODDOREVEN = registerSoundEvents("neveroddoreven");
