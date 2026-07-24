@@ -644,4 +644,31 @@
       }
     ]
   }
+
+  ,"tvtime": {
+     "sounds": [
+      {
+        "name": "anothertune:tvtime",
+        "stream": true
+      }
+    ]
+  }
+
+  ,"flowerman": {
+     "sounds": [
+      {
+        "name": "anothertune:flowerman",
+        "stream": true
+      }
+    ]
+  }
+
+  ,"blackknife": {
+     "sounds": [
+      {
+        "name": "anothertune:blackknife",
+        "stream": true
+      }
+    ]
+  }
 }

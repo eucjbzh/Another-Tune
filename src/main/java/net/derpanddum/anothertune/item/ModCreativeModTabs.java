@@ -107,6 +107,9 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.DOUBLEDGASTERSTHEME.get());
                         pOutput.accept(ModItems.BOOMBOOMBOOMBOOM.get());
                         pOutput.accept(ModItems.RUNNINGSKY.get());
+                        pOutput.accept(ModItems.TVTIME.get());
+                        pOutput.accept(ModItems.FLOWERMAN.get());
+                        pOutput.accept(ModItems.BLACKKNIFE.get());
                     })
                     .build());
 

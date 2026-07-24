@@ -164,4 +164,13 @@
 
 ,  "item.anothertune.running_sky_music_disc": "§bMusic Disc",
   "item.anothertune.running_sky_music_disc.desc": "Running Sky - Toby Fox"
+
+,  "item.anothertune.tv_time_music_disc": "§bMusic Disc",
+  "item.anothertune.tv_time_music_disc.desc": "TV Time - Toby Fox"
+
+,  "item.anothertune.flower_man_music_disc": "§bMusic Disc",
+  "item.anothertune.flower_man_music_disc.desc": "Flower Man - Toby Fox"
+
+,  "item.anothertune.black_knife_music_disc": "§bMusic Disc",
+  "item.anothertune.black_knife_music_disc.desc": "Black Knife - Toby Fox"
 }

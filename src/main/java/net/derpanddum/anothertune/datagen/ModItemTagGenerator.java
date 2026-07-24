@@ -102,6 +102,9 @@ public class ModItemTagGenerator extends ItemTagsProvider {
         ItemTagList.add(ModItems.DOUBLEDGASTERSTHEME.get());
         ItemTagList.add(ModItems.BOOMBOOMBOOMBOOM.get());
         ItemTagList.add(ModItems.RUNNINGSKY.get());
+        ItemTagList.add(ModItems.TVTIME.get());
+        ItemTagList.add(ModItems.FLOWERMAN.get());
+        ItemTagList.add(ModItems.BLACKKNIFE.get());
         this.tag(ItemTags.MUSIC_DISCS)
                 .add(ItemTagList.toArray(new Item[0]));
 

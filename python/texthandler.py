@@ -11,9 +11,6 @@ import tkinter
 
 rootjava = pathlib.Path(__file__).parent.parent.resolve()
 
-ModItemModelProvider = open(f"{rootjava}/src/main/java/net/derpanddum/anothertune/datagen/ModItemModelProvider.java")
-ModItemTagGenerator = open(f"{rootjava}/src/main/java/net/derpanddum/anothertune/datagen/ModItemTagGenerator.java")
-
 def insertbykey(pathtoopen, key, addition):
     javafile = open(pathtoopen, "r+")
     lines = javafile.readlines()
@@ -149,6 +146,7 @@ def deleteall(title):
 
 def add():
     dest_dir = Path(rootjava) / "src/main/resources/assets/anothertune/textures/item"
+    dest_dir2 = Path(rootjava) / "src/main/resources/data/anothertune/recipes"
     root = tkinter.Tk()
     root.withdraw()
 
@@ -163,9 +161,14 @@ def add():
     imagefile = filedialog.askopenfilename()
     print(imagefile)
 
+    recipefile = filedialog.askopenfilename()
+    print(recipefile)
+
     Mp3OggtoMono.convert(soundfile, f"{rootjava}/src/main/resources/assets/anothertune/sounds", title)
     dest_dir.mkdir(parents=True, exist_ok=True)
+    dest_dir2.mkdir(parents=True, exist_ok=True)
     shutil.copy(imagefile, dest_dir / f"{title.lower().replace(" ", "_") + "_music_disc"}.png")
+    shutil.copy(recipefile, dest_dir2 / f"{title.lower().replace(" ", "_")}.json")
     updateall(title, author, str(ticks))
 
 def main():

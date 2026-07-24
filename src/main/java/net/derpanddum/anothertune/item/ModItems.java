@@ -241,6 +241,12 @@ public class ModItems {
             () -> new RecordItem(6, ModSounds.BOOMBOOMBOOMBOOM, new Item.Properties().stacksTo(1),4068));
     public static final RegistryObject<Item> RUNNINGSKY = ITEMS.register("running_sky_music_disc",
             () -> new RecordItem(6, ModSounds.RUNNINGSKY, new Item.Properties().stacksTo(1),2844));
+    public static final RegistryObject<Item> TVTIME = ITEMS.register("tv_time_music_disc",
+            () -> new RecordItem(6, ModSounds.TVTIME, new Item.Properties().stacksTo(1),3308));
+    public static final RegistryObject<Item> FLOWERMAN = ITEMS.register("flower_man_music_disc",
+            () -> new RecordItem(6, ModSounds.FLOWERMAN, new Item.Properties().stacksTo(1),3840));
+    public static final RegistryObject<Item> BLACKKNIFE = ITEMS.register("black_knife_music_disc",
+            () -> new RecordItem(6, ModSounds.BLACKKNIFE, new Item.Properties().stacksTo(1),2342));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

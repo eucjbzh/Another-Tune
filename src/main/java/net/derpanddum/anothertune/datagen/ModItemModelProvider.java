@@ -114,6 +114,9 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.DOUBLEDGASTERSTHEME);
         simpleItem(ModItems.BOOMBOOMBOOMBOOM);
         simpleItem(ModItems.RUNNINGSKY);
+        simpleItem(ModItems.TVTIME);
+        simpleItem(ModItems.FLOWERMAN);
+        simpleItem(ModItems.BLACKKNIFE);
 
     }
 
