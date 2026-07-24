@@ -79,6 +79,7 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> HEARTHESIRENSONGCALLOFDEATH = registerSoundEvents("hearthesirensongcallofdeath");
     public static final RegistryObject<SoundEvent> SUFFERINGLEAVESSUFFERINGLEAVES = registerSoundEvents("sufferingleavessufferingleaves");
     public static final RegistryObject<SoundEvent> DANSEMACABRE = registerSoundEvents("dansemacabre");
+    public static final RegistryObject<SoundEvent> WARWITHOUTREASONHESPERUSCOVER = registerSoundEvents("warwithoutreasonhesperuscover");
     public static final RegistryObject<SoundEvent> INABSENTIALOGOS = registerSoundEvents("inabsentialogos");
     public static final RegistryObject<SoundEvent> SPIRALOUT = registerSoundEvents("spiralout");
     public static final RegistryObject<SoundEvent> NEVERODDOREVEN = registerSoundEvents("neveroddoreven");

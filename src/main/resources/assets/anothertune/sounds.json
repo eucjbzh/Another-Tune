@@ -511,6 +511,14 @@
       }
     ]
   },
+  "warwithoutreasonhesperuscover": {
+    "sounds": [
+      {
+        "name": "anothertune:warwithoutreasonhesperuscover",
+        "stream": true
+      }
+    ]
+  },
   "inabsentialogos": {
     "sounds": [
       {

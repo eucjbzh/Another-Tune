@@ -194,10 +194,13 @@ public class ModItems {
             () -> new RecordItem(6, ModSounds.HEARTHESIRENSONGCALLOFDEATH, new Item.Properties().stacksTo(1),6380));
 
     public static final RegistryObject<Item> SUFFERINGLEAVESSUFFERINGLEAVES = ITEMS.register("suffering_leaves_suffering_leaves_music_disc",
-            () -> new RecordItem(6, ModSounds.SUFFERINGLEAVESSUFFERINGLEAVES, new Item.Properties().stacksTo(1),2760 ));
+            () -> new RecordItem(6, ModSounds.SUFFERINGLEAVESSUFFERINGLEAVES, new Item.Properties().stacksTo(1),2760));
 
     public static final RegistryObject<Item> DANSEMACABRE = ITEMS.register("danse_macabre_music_disc",
             () -> new RecordItem(6, ModSounds.DANSEMACABRE, new Item.Properties().stacksTo(1), 4300));
+
+    public static final RegistryObject<Item> WARWITHOUTREASONHESPERUSCOVER = ITEMS.register("war_without_reason_hesperus_cover_music_disc",
+            () -> new RecordItem(6, ModSounds.WARWITHOUTREASONHESPERUSCOVER, new Item.Properties().stacksTo(1), 8800));
 
     public static final RegistryObject<Item> INABSENTIALOGOS = ITEMS.register("in_absentia_logos_music_disc",
             () -> new RecordItem(6, ModSounds.INABSENTIALOGOS, new Item.Properties().stacksTo(1),5460));

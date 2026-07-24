@@ -86,6 +86,7 @@ public class ModItemTagGenerator extends ItemTagsProvider {
         ItemTagList.add(ModItems.HEARTHESIRENSONGCALLOFDEATH.get());
         ItemTagList.add(ModItems.SUFFERINGLEAVESSUFFERINGLEAVES.get());
         ItemTagList.add(ModItems.DANSEMACABRE.get());
+        ItemTagList.add(ModItems.WARWITHOUTREASONHESPERUSCOVER.get());
         ItemTagList.add(ModItems.INABSENTIALOGOS.get());
         ItemTagList.add(ModItems.SPIRALOUT.get());
         ItemTagList.add(ModItems.NEVERODDOREVEN.get());
