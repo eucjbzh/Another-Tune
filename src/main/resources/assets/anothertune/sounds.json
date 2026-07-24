@@ -608,4 +608,40 @@
       }
     ]
   }
+
+  ,"sunsetofsevensuns": {
+     "sounds": [
+      {
+        "name": "anothertune:sunsetofsevensuns",
+        "stream": true
+      }
+    ]
+  }
+
+  ,"doubledgasterstheme": {
+     "sounds": [
+      {
+        "name": "anothertune:doubledgasterstheme",
+        "stream": true
+      }
+    ]
+  }
+
+  ,"boomboomboomboom": {
+     "sounds": [
+      {
+        "name": "anothertune:boomboomboomboom",
+        "stream": true
+      }
+    ]
+  }
+
+  ,"runningsky": {
+     "sounds": [
+      {
+        "name": "anothertune:runningsky",
+        "stream": true
+      }
+    ]
+  }
 }

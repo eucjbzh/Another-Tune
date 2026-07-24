@@ -233,7 +233,14 @@ public class ModItems {
             () -> new RecordItem(6, ModSounds.NI4NI, new Item.Properties().stacksTo(1),5040));
     public static final RegistryObject<Item> MOSIMOSI = ITEMS.register("mosi_mosi_music_disc",
             () -> new RecordItem(6, ModSounds.MOSIMOSI, new Item.Properties().stacksTo(1),3276));    public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));
-    // public static final RegistryObject<Item> TEST_CROP = ITEMS.register("huh", new Crop(CropTier.ELEMENTAL, CropType.RESOURCE, LazyIngredient.item("minecraft:gravel")));
+    public static final RegistryObject<Item> SUNSETOFSEVENSUNS = ITEMS.register("sunset_of_seven_suns_music_disc",
+            () -> new RecordItem(6, ModSounds.SUNSETOFSEVENSUNS, new Item.Properties().stacksTo(1),1920));    // public static final RegistryObject<Item> TEST_CROP = ITEMS.register("huh", new Crop(CropTier.ELEMENTAL, CropType.RESOURCE, LazyIngredient.item("minecraft:gravel")));
+    public static final RegistryObject<Item> DOUBLEDGASTERSTHEME = ITEMS.register("double_d_gasters_theme_music_disc",
+            () -> new RecordItem(6, ModSounds.DOUBLEDGASTERSTHEME, new Item.Properties().stacksTo(1),1064));
+    public static final RegistryObject<Item> BOOMBOOMBOOMBOOM = ITEMS.register("boom_boom_boom_boom_music_disc",
+            () -> new RecordItem(6, ModSounds.BOOMBOOMBOOMBOOM, new Item.Properties().stacksTo(1),4068));
+    public static final RegistryObject<Item> RUNNINGSKY = ITEMS.register("running_sky_music_disc",
+            () -> new RecordItem(6, ModSounds.RUNNINGSKY, new Item.Properties().stacksTo(1),2844));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

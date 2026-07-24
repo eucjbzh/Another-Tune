@@ -110,6 +110,10 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.ALTARSOFAPOSTASY);
         simpleItem(ModItems.NI4NI);
         simpleItem(ModItems.MOSIMOSI);
+        simpleItem(ModItems.SUNSETOFSEVENSUNS);
+        simpleItem(ModItems.DOUBLEDGASTERSTHEME);
+        simpleItem(ModItems.BOOMBOOMBOOMBOOM);
+        simpleItem(ModItems.RUNNINGSKY);
 
     }
 

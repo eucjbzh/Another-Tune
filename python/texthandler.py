@@ -114,11 +114,11 @@ def updateJsons(title, author):
 
 def updateall(title, author, ticks):
     updateJsons(title, author)
-    insertbykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/item/ModItems.java", "            () -> new RecordItem", '    public static final RegistryObject<Item> '+title.upper().replace(" ","")+' = ITEMS.register("'+title.lower().replace(" ","_")+'_music_disc",' + '\n            () -> new RecordItem(6, ModSounds.'+title.upper().replace(" ","")+', new Item.Properties().stacksTo(1),'+ticks+'));')
+    insertbykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/item/ModItems.java", "            () -> new RecordItem", '    public static final RegistryObject<Item> '+title.upper().replace(" ","")+' = ITEMS.register("'+title.lower().replace(" ","_")+'_music_disc",' + '\n            () -> new RecordItem(6, ModSounds.'+title.upper().replace(" ","")+', new Item.Properties().stacksTo(1),'+ticks+'));\n')
     insertbykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/item/ModCreativeModTabs.java", "                        pOutput.accept(", f'                        pOutput.accept(ModItems.{title.upper().replace(" ","")}.get());\n')
     insertbykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/sound/ModSounds.java", "    public static final RegistryObject<SoundEvent>", f'    public static final RegistryObject<SoundEvent> {title.upper().replace(" ","")} = registerSoundEvents("{title.lower().replace(" ","")}");\n')
     insertbykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/datagen/ModItemModelProvider.java", "        simpleItem(", f'        simpleItem(ModItems.{title.upper().replace(" ","")});\n')
-    insertbykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/datagen/ModItemTagGenerator.java", "        ItemTagList.add(", f"        ItemTagList.add(ModItems.{title.upper().replace(" ","")}.get());")
+    insertbykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/datagen/ModItemTagGenerator.java", "        ItemTagList.add(", f"        ItemTagList.add(ModItems.{title.upper().replace(" ","")}.get());\n")
 
 def deleteall(title):
     deletebykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/item/ModItems.java",
@@ -172,6 +172,6 @@ def main():
     if input("Would you like to ADD or REMOVE ") == "ADD":
         add()
     else:
-        deleteall(input("Enter the Title"))
+        deleteall(input("Enter the Title "))
 
 main()

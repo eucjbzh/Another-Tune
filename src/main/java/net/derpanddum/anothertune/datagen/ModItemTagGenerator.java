@@ -98,6 +98,10 @@ public class ModItemTagGenerator extends ItemTagsProvider {
         ItemTagList.add(ModItems.ALTARSOFAPOSTASY.get());
         ItemTagList.add(ModItems.NI4NI.get());
         ItemTagList.add(ModItems.MOSIMOSI.get());        // Apply the list to both tags cleanly
+        ItemTagList.add(ModItems.SUNSETOFSEVENSUNS.get());
+        ItemTagList.add(ModItems.DOUBLEDGASTERSTHEME.get());
+        ItemTagList.add(ModItems.BOOMBOOMBOOMBOOM.get());
+        ItemTagList.add(ModItems.RUNNINGSKY.get());
         this.tag(ItemTags.MUSIC_DISCS)
                 .add(ItemTagList.toArray(new Item[0]));
 

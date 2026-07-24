@@ -91,6 +91,10 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> ALTARSOFAPOSTASY = registerSoundEvents("altarsofapostasy");
     public static final RegistryObject<SoundEvent> NI4NI = registerSoundEvents("ni4ni");
     public static final RegistryObject<SoundEvent> MOSIMOSI = registerSoundEvents("mosimosi");
+    public static final RegistryObject<SoundEvent> SUNSETOFSEVENSUNS = registerSoundEvents("sunsetofsevensuns");
+    public static final RegistryObject<SoundEvent> DOUBLEDGASTERSTHEME = registerSoundEvents("doubledgasterstheme");
+    public static final RegistryObject<SoundEvent> BOOMBOOMBOOMBOOM = registerSoundEvents("boomboomboomboom");
+    public static final RegistryObject<SoundEvent> RUNNINGSKY = registerSoundEvents("runningsky");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(AnotherTune.MOD_ID, name)));

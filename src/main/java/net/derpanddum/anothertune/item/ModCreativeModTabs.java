@@ -103,6 +103,10 @@ public class ModCreativeModTabs {
 
                         pOutput.accept(ModItems.MIKU_ESSENCE.get());
                         pOutput.accept(ModItems.MOSIMOSI.get());
+                        pOutput.accept(ModItems.SUNSETOFSEVENSUNS.get());
+                        pOutput.accept(ModItems.DOUBLEDGASTERSTHEME.get());
+                        pOutput.accept(ModItems.BOOMBOOMBOOMBOOM.get());
+                        pOutput.accept(ModItems.RUNNINGSKY.get());
                     })
                     .build());
 
