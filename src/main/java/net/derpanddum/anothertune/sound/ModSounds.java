@@ -98,6 +98,7 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> TVTIME = registerSoundEvents("tvtime");
     public static final RegistryObject<SoundEvent> FLOWERMAN = registerSoundEvents("flowerman");
     public static final RegistryObject<SoundEvent> BLACKKNIFE = registerSoundEvents("blackknife");
+    public static final RegistryObject<SoundEvent> FALLENANGEL = registerSoundEvents("fallenangel");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(AnotherTune.MOD_ID, name)));

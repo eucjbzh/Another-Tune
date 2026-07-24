@@ -247,6 +247,8 @@ public class ModItems {
             () -> new RecordItem(6, ModSounds.FLOWERMAN, new Item.Properties().stacksTo(1),3840));
     public static final RegistryObject<Item> BLACKKNIFE = ITEMS.register("black_knife_music_disc",
             () -> new RecordItem(6, ModSounds.BLACKKNIFE, new Item.Properties().stacksTo(1),2342));
+    public static final RegistryObject<Item> FALLENANGEL = ITEMS.register("fallen_angel_music_disc",
+            () -> new RecordItem(6, ModSounds.FALLENANGEL, new Item.Properties().stacksTo(1),2620));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

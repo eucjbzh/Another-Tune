@@ -33,8 +33,8 @@
   "item.anothertune.penumbra_phantasm_music_disc.desc": "§kToby Fox§r - Penumbra Phantasm",
   "item.anothertune.sosorry_music_disc": "§bMusic Disc",
   "item.anothertune.sosorry_music_disc.desc": "ePiaeon - SOSORRY",
-  "item.anothertune.tenebre_rosso_sangue_music_disc": "§bMusic Disc",
-  "item.anothertune.tenebre_rosso_sangue_music_disc.desc": "Keygen Church - Tenebre Rosso Sangue",
+  "item.anothertune.tenebre_rosso_sangue_music_disc": "§4Music Disc",
+  "item.anothertune.tenebre_rosso_sangue_music_disc.desc": "§4Keygen Church - Tenebre Rosso Sangue",
   "item.anothertune.travelers_music_disc": "§bMusic Disc",
   "item.anothertune.travelers_music_disc.desc": "Andrew Prahlow - Travelers",
   "item.anothertune.triple_baka_music_disc": "§bMusic Disc",
@@ -103,8 +103,8 @@
   "item.anothertune.duel_music_disc.desc": "Heaven Pierce Her - Duel(Versus Reprise)",
   "item.anothertune.divine_intervention_music_disc": "§bMusic Disc",
   "item.anothertune.divine_intervention_music_disc.desc": "Heaven Pierce Her - Divine Intervention",
-  "item.anothertune.the_death_of_gods_will_music_disc": "§bMusic Disc",
-  "item.anothertune.the_death_of_gods_will_music_disc.desc": "Heaven Pierce Her - The Death Of Gods Will",
+  "item.anothertune.the_death_of_gods_will_music_disc": "§4Music Disc",
+  "item.anothertune.the_death_of_gods_will_music_disc.desc": "§4Heaven Pierce Her - The Death Of Gods Will",
   "item.anothertune.gusty_garden_galaxy_music_disc": "§bMusic Disc",
   "item.anothertune.gusty_garden_galaxy_music_disc.desc": "Koji Kondo & Mahito Yokota - Gusty Garden Galaxy",
   "item.anothertune.the_world_looks_white_music_disc": "§fMusic Disc",
@@ -140,7 +140,7 @@
   "item.anothertune.final_flight_music_disc": "§bMusic Disc",
   "item.anothertune.final_flight_music_disc.desc": "Heaven Pierce Her - The Fall",
   "item.anothertune.altars_of_apostasy_music_disc": "§4Music Disc",
-  "item.anothertune.altars_of_apostasy_music_disc.desc": "Heaven Pierce Her - §4Altars Of Apostasy",
+  "item.anothertune.altars_of_apostasy_music_disc.desc": "§4Heaven Pierce Her - Altars Of Apostasy",
   "item.anothertune.ni4ni_music_disc": "§bMusic Disc",
   "item.anothertune.ni4ni_music_disc.desc": "Vylet Pony - NI4NI",
   "item.anothertune.miku_essence": "Miku Essence",
@@ -173,4 +173,7 @@
 
 ,  "item.anothertune.black_knife_music_disc": "§bMusic Disc",
   "item.anothertune.black_knife_music_disc.desc": "Black Knife - Toby Fox"
+
+,  "item.anothertune.fallen_angel_music_disc": "§4Music Disc",
+  "item.anothertune.fallen_angel_music_disc.desc": "§4Heaven Pierce Her - Fallen Angel"
 }

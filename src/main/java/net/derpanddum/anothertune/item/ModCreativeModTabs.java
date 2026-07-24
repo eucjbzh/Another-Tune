@@ -110,6 +110,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.TVTIME.get());
                         pOutput.accept(ModItems.FLOWERMAN.get());
                         pOutput.accept(ModItems.BLACKKNIFE.get());
+                        pOutput.accept(ModItems.FALLENANGEL.get());
                     })
                     .build());
 

@@ -386,7 +386,7 @@
   "eggman": {
     "sounds": [
       {
-        "name":"anothertune:eggman",
+        "name": "anothertune:eggman",
         "stream": true
       }
     ]
@@ -598,75 +598,75 @@
         "stream": true
       }
     ]
-  }
-,
+  },
   "mosimosi": {
-     "sounds": [
+    "sounds": [
       {
         "name": "anothertune:mosimosi",
         "stream": true
       }
     ]
-  }
-
-  ,"sunsetofsevensuns": {
-     "sounds": [
+  },
+  "sunsetofsevensuns": {
+    "sounds": [
       {
         "name": "anothertune:sunsetofsevensuns",
         "stream": true
       }
     ]
-  }
-
-  ,"doubledgasterstheme": {
-     "sounds": [
+  },
+  "doubledgasterstheme": {
+    "sounds": [
       {
         "name": "anothertune:doubledgasterstheme",
         "stream": true
       }
     ]
-  }
-
-  ,"boomboomboomboom": {
-     "sounds": [
+  },
+  "boomboomboomboom": {
+    "sounds": [
       {
         "name": "anothertune:boomboomboomboom",
         "stream": true
       }
     ]
-  }
-
-  ,"runningsky": {
-     "sounds": [
+  },
+  "runningsky": {
+    "sounds": [
       {
         "name": "anothertune:runningsky",
         "stream": true
       }
     ]
-  }
-
-  ,"tvtime": {
-     "sounds": [
+  },
+  "tvtime": {
+    "sounds": [
       {
         "name": "anothertune:tvtime",
         "stream": true
       }
     ]
-  }
-
-  ,"flowerman": {
-     "sounds": [
+  },
+  "flowerman": {
+    "sounds": [
       {
         "name": "anothertune:flowerman",
         "stream": true
       }
     ]
-  }
-
-  ,"blackknife": {
-     "sounds": [
+  },
+  "blackknife": {
+    "sounds": [
       {
         "name": "anothertune:blackknife",
+        "stream": true
+      }
+    ]
+  },
+  "fallenangel": {
+    "sounds": [
+      {
+        "name": "anothertune:fallenangel",
         "stream": true
       }
     ]
