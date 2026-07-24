@@ -39,8 +39,38 @@ def insertbykey(pathtoopen, key, addition):
     javafile.close()
 
 
+def deletebykey(pathtoopen, key, linesafterdiscover):
+    javafile = open(pathtoopen, "r+")
+    lines = javafile.readlines()
+
+    fullfile = ""
+    deleted = ""
+    aftertrigger = 0
+    found = 0
+    for line in lines:
+        if line != key and aftertrigger < 1:
+            fullfile += line
+        else:
+            if found == 0:
+                found = 1
+                aftertrigger = linesafterdiscover
+                deleted += line
+            else:
+                if aftertrigger >= 1:
+                    aftertrigger -= 1
+                    deleted += line
+                else:
+                    fullfile += line
+
+    javafile.close()
+
+    javafile = open(pathtoopen, "w")
+
+    javafile.write(fullfile)
+    javafile.close()
+
 def updateJsons(title, author):
-    LangAdd = (f',\n  "item.anothertune.{title.lower().replace(" ","_")}_music_disc": "Â§bMusic Disc",\n'
+    LangAdd = (f'\n,  "item.anothertune.{title.lower().replace(" ","_")}_music_disc": "Â§bMusic Disc",\n'
                f'  "item.anothertune.{title.lower().replace(" ","_")}_music_disc.desc": "{title} - {author}"'
                '\n}')
 
@@ -63,7 +93,7 @@ def updateJsons(title, author):
 
 
 
-    SoundsAdd = (',\n  "' + title.lower().replace(" ","") + '": {\n     "sounds": [\n      {\n        "name": "anothertune:' + title.lower().replace(" ", "") + '",\n        "stream": true\n      }\n    ]\n  }\n}')
+    SoundsAdd = ('\n  ,"' + title.lower().replace(" ","") + '": {\n     "sounds": [\n      {\n        "name": "anothertune:' + title.lower().replace(" ", "") + '",\n        "stream": true\n      }\n    ]\n  }\n}')
 
     SoundsFile = open(f"{rootjava}/src/main/resources/assets/anothertune/sounds.json")
 
@@ -90,7 +120,34 @@ def updateall(title, author, ticks):
     insertbykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/datagen/ModItemModelProvider.java", "        simpleItem(", f'        simpleItem(ModItems.{title.upper().replace(" ","")});\n')
     insertbykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/datagen/ModItemTagGenerator.java", "        ItemTagList.add(", f"        ItemTagList.add(ModItems.{title.upper().replace(" ","")}.get());")
 
-def main():
+def deleteall(title):
+    deletebykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/item/ModItems.java",
+                '    public static final RegistryObject<Item> ' + title.upper().replace(" ",
+                                                                                        "") + ' = ITEMS.register("' + title.lower().replace(
+                    " ",
+                    "_") + '_music_disc",\n',
+                1
+                )
+    deletebykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/item/ModCreativeModTabs.java",
+                f'                        pOutput.accept(ModItems.{title.upper().replace(" ", "")}.get());\n',
+                0)
+    deletebykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/sound/ModSounds.java",
+                f'    public static final RegistryObject<SoundEvent> {title.upper().replace(" ", "")} = registerSoundEvents("{title.lower().replace(" ", "")}");\n',
+                0)
+    deletebykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/datagen/ModItemModelProvider.java",
+                f'        simpleItem(ModItems.{title.upper().replace(" ", "")});\n',
+                0)
+    deletebykey(f"{rootjava}/src/main/java/net/derpanddum/anothertune/datagen/ModItemTagGenerator.java",
+                f"        ItemTagList.add(ModItems.{title.upper().replace(" ", "")}.get());\n",
+                0)
+    deletebykey(f"{rootjava}/src/main/resources/assets/anothertune/sounds.json",
+                '  "'+title.lower().replace(" ", "")+'": {\n',
+                7)
+    deletebykey(f"{rootjava}/src/main/resources/assets/anothertune/lang/en_us.json",
+                ', "item.anothertune.'+title.lower().replace(" ", "_")+'_music_disc": "Â§bMusic Disc",\n',
+                1)
+
+def add():
     dest_dir = Path(rootjava) / "src/main/resources/assets/anothertune/textures/item"
     root = tkinter.Tk()
     root.withdraw()
@@ -110,5 +167,11 @@ def main():
     dest_dir.mkdir(parents=True, exist_ok=True)
     shutil.copy(imagefile, dest_dir / f"{title.lower().replace(" ", "_") + "_music_disc"}.png")
     updateall(title, author, str(ticks))
+
+def main():
+    if input("Would you like to ADD or REMOVE ") == "ADD":
+        add()
+    else:
+        deleteall(input("Enter the Title"))
 
 main()
