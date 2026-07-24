@@ -102,6 +102,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.NI4NI.get());
 
                         pOutput.accept(ModItems.MIKU_ESSENCE.get());
+                        pOutput.accept(ModItems.MOSIMOSI.get());
                     })
                     .build());
 

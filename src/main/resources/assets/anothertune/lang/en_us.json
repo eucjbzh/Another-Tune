@@ -1,224 +1,155 @@
 {
   "item.anothertune.bar_brawl_music_disc": "§bMusic Disc",
   "item.anothertune.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
-
   "item.anothertune.birdbrain_music_disc": "§bMusic Disc",
   "item.anothertune.birdbrain_music_disc.desc": "Jamie Paige - Birdbrain",
-
   "item.anothertune.bite_me_music_disc": "§bMusic Disc",
   "item.anothertune.bite_me_music_disc.desc": "AJ Dispirito, Zephyrianna - BITE ME",
-
   "item.anothertune.break_through_it_all_music_disc": "§bMusic Disc",
   "item.anothertune.break_through_it_all_music_disc.desc": "SEGA SOUND TEAM - Break Through it All",
-
   "item.anothertune.find_your_flame_music_disc": "§bMusic Disc",
   "item.anothertune.find_your_flame_music_disc.desc": "SEGA SOUND TEAM - Find your Flame",
-
   "item.anothertune.human_music_disc": "§bMusic Disc",
   "item.anothertune.human_music_disc.desc": "Flavor Foley - Human FT. SF-A2 Miki",
-
   "item.anothertune.im_here_revisited_music_disc": "§bMusic Disc",
   "item.anothertune.im_here_revisited_music_disc.desc": "SEGA SOUND TEAM - I'm Here - Revisited",
-
   "item.anothertune.it_has_to_be_this_way_music_disc": "§bMusic Disc",
   "item.anothertune.it_has_to_be_this_way_music_disc.desc": "Jimmy Gnecco - It Has to be this Way",
-
   "item.anothertune.its_pizza_time_music_disc": "§bMusic Disc",
   "item.anothertune.its_pizza_time_music_disc.desc": "Mr Sauceman - It's Pizza Time!",
-
   "item.anothertune.lemon_melon_cookie_music_disc": "§bMusic Disc",
   "item.anothertune.lemon_melon_cookie_music_disc.desc": "TAK - Lemon Melon Cookie",
-
   "item.anothertune.live_and_learn_music_disc": "§bMusic Disc",
   "item.anothertune.live_and_learn_music_disc.desc": "Crush 40 - Live and Learn",
-
   "item.anothertune.live_and_learn_teto_mix_music_disc": "§bMusic Disc",
   "item.anothertune.live_and_learn_teto_mix_music_disc.desc": "I00 - Live and Learn - Teto Mix",
-
   "item.anothertune.magical_cure_loveshot_music_disc": "§bMusic Disc",
   "item.anothertune.magical_cure_loveshot_music_disc.desc": "SAWTOWNE - M@gical Cure Loveshot!",
-
   "item.anothertune.its_time_to_fight_crime_music_disc": "§bMusic Disc",
   "item.anothertune.its_time_to_fight_crime_music_disc.desc": "NightMargin - IT'S TIME TO FIGHT CRIME",
-
   "item.anothertune.my_way_music_disc": "§bMusic Disc",
   "item.anothertune.my_way_music_disc.desc": "Frank Sinatra - My Way",
-
   "item.anothertune.penumbra_phantasm_music_disc": "§bMusic Disc",
   "item.anothertune.penumbra_phantasm_music_disc.desc": "§kToby Fox§r - Penumbra Phantasm",
-
   "item.anothertune.sosorry_music_disc": "§bMusic Disc",
   "item.anothertune.sosorry_music_disc.desc": "ePiaeon - SOSORRY",
-
   "item.anothertune.tenebre_rosso_sangue_music_disc": "§bMusic Disc",
   "item.anothertune.tenebre_rosso_sangue_music_disc.desc": "Keygen Church - Tenebre Rosso Sangue",
-
   "item.anothertune.travelers_music_disc": "§bMusic Disc",
   "item.anothertune.travelers_music_disc.desc": "Andrew Prahlow - Travelers",
-
   "item.anothertune.triple_baka_music_disc": "§bMusic Disc",
   "item.anothertune.triple_baka_music_disc.desc": "Lamaze-P - Triple Baka",
-
   "item.anothertune.undefeatable_music_disc": "§bMusic Disc",
   "item.anothertune.undefeatable_music_disc.desc": "SEGA SOUND TEAM - Undefeatable",
-
   "item.anothertune.war_music_disc": "§bMusic Disc",
   "item.anothertune.war_music_disc.desc": "Heaven Pierce Her - War",
-
   "item.anothertune.war_without_reason_music_disc": "§bMusic Disc",
   "item.anothertune.war_without_reason_music_disc.desc": "Heaven Pierce Her - War Without Reason",
-
   "item.anothertune.order_music_disc": "§bMusic Disc",
   "item.anothertune.order_music_disc.desc": "Heaven Pierce Her - Order",
-
   "item.anothertune.wind_over_the_flower_music_disc": "§bMusic Disc",
   "item.anothertune.wind_over_the_flower_music_disc.desc": "Balloon - Wind Over The Flower",
-
   "item.anothertune.a_mysterious_phone_call_music_disc": "§bMusic Disc",
   "item.anothertune.a_mysterious_phone_call_music_disc.desc": "r-906 - A Mysterious Phone Call",
-
   "item.anothertune.all_i_can_see_is_you_music_disc": "§bMusic Disc",
   "item.anothertune.all_i_can_see_is_you_music_disc.desc": "r-906 - All I Can See is You",
-
   "item.anothertune.apricot_music_disc": "§bMusic Disc",
   "item.anothertune.apricot_music_disc.desc": "Iyowa - Apricot",
-
   "item.anothertune.heat_abnormal_music_disc": "§bMusic Disc",
   "item.anothertune.heat_abnormal_music_disc.desc": "Iyowa - Heat Abnormal",
-
   "item.anothertune.heavens_bug_music_disc": "§bMusic Disc",
   "item.anothertune.heavens_bug_music_disc.desc": "Iyowa - Heaven's Bug",
-
   "item.anothertune.kyukurarin_music_disc": "§bMusic Disc",
   "item.anothertune.kyukurarin_music_disc.desc": "Iyowa - Kyu-kurarin",
-
   "item.anothertune.lagtrain_music_disc": "§bMusic Disc",
   "item.anothertune.lagtrain_music_disc.desc": "Inabakumori - Lagtrain",
-
   "item.anothertune.living_millennium_music_disc": "§bMusic Disc",
   "item.anothertune.living_millennium_music_disc.desc": "Iyowa - Living Millennium",
-
   "item.anothertune.lost_umbrella_music_disc": "§bMusic Disc",
   "item.anothertune.lost_umbrella_music_disc.desc": "Inabakumori - Lost Umbrella",
-
   "item.anothertune.mirareru_mirror_music_disc": "§bMusic Disc",
   "item.anothertune.mirareru_mirror_music_disc.desc": "Namitape - Mirareru Mirror",
-
   "item.anothertune.otsukare_summer_music_disc": "§bMusic Disc",
   "item.anothertune.otsukare_summer_music_disc.desc": "HALCALI - Otsukare Summer",
-
   "item.anothertune.panopticon_music_disc": "§bMusic Disc",
   "item.anothertune.panopticon_music_disc.desc": "r-906 - Panopticon",
-
   "item.anothertune.rabbit_music_disc": "§bMusic Disc",
   "item.anothertune.rabbit_music_disc.desc": "John - Rabbit",
-
   "item.anothertune.redlandmarker_music_disc": "§bMusic Disc",
   "item.anothertune.redlandmarker_music_disc.desc": "TwinField - Red Land Marker",
-
   "item.anothertune.shunran_music_disc": "§bMusic Disc",
   "item.anothertune.shunran_music_disc.desc": "John - Spring Storm",
-
   "item.anothertune.spoonful_of_spell_music_disc": "§bMusic Disc",
   "item.anothertune.spoonful_of_spell_music_disc.desc": "r-906 - Spoonful of Spell",
-
   "item.anothertune.the_cruel_angels_thesis_music_disc": "§bMusic Disc",
   "item.anothertune.the_cruel_angels_thesis_music_disc.desc": "Yoko Takashi - The Cruel Angel's Thesis",
-
   "item.anothertune.write_over_me_music_disc": "§bMusic Disc",
   "item.anothertune.write_over_me_music_disc.desc": "Iyowa - Write Over Me",
-
   "item.anothertune.on_little_cat_feet_music_disc": "§bMusic Disc",
   "item.anothertune.on_little_cat_feet_music_disc.desc": "Nightmargin - On Little Cat Feet",
-
   "item.anothertune.tem_shop_music_disc": "§bMUSIC DIISCK",
   "item.anothertune.tem_shop_music_disc.desc": "Toby Fox - Tem Shop",
-
   "item.anothertune.eggman_music_disc": "§bMusic Disc",
   "item.anothertune.eggman_music_disc.desc": "Paul Shortino - E.G.G.M.A.N.",
-
   "item.anothertune.moon_over_the_castle_music_disc": "§bMusic Disc",
   "item.anothertune.moon_over_the_castle_music_disc.desc": "Masahiro Ando & T-SQUARE - Moon Over The Castle (GT7 version)",
-
   "item.anothertune.planetary_go_music_disc": "§bMusic Disc",
   "item.anothertune.planetary_go_music_disc.desc": "My Chemical Romance - Planetary(GO!)",
-
   "item.anothertune.hello_marina_music_disc": "§bMusic Disc",
   "item.anothertune.hello_marina_music_disc.desc": "Inabkumori - Hello Marina",
-
   "item.anothertune.versus_music_disc": "§bMusic Disc",
   "item.anothertune.versus_music_disc.desc": "Heaven Pierce Her - Versus",
-
   "item.anothertune.duel_music_disc": "§bMusic Disc",
   "item.anothertune.duel_music_disc.desc": "Heaven Pierce Her - Duel(Versus Reprise)",
-
   "item.anothertune.divine_intervention_music_disc": "§bMusic Disc",
   "item.anothertune.divine_intervention_music_disc.desc": "Heaven Pierce Her - Divine Intervention",
-
   "item.anothertune.the_death_of_gods_will_music_disc": "§bMusic Disc",
-  "item.anothertune.the_death_of_gods_will_music_disc.desc" : "Heaven Pierce Her - The Death Of Gods Will",
-
+  "item.anothertune.the_death_of_gods_will_music_disc.desc": "Heaven Pierce Her - The Death Of Gods Will",
   "item.anothertune.gusty_garden_galaxy_music_disc": "§bMusic Disc",
   "item.anothertune.gusty_garden_galaxy_music_disc.desc": "Koji Kondo & Mahito Yokota - Gusty Garden Galaxy",
-
   "item.anothertune.the_world_looks_white_music_disc": "§fMusic Disc",
   "item.anothertune.the_world_looks_white_music_disc.desc": "Heaven Pierce Her - §fThe World Looks White",
-
   "item.anothertune.the_world_looks_red_music_disc": "§4Music Disc",
   "item.anothertune.the_world_looks_red_music_disc.desc": "Heaven Pierce Her - §fThe World Looks §4Red",
-
   "item.anothertune.bull_of_hell_music_disc": "§bMusic Disc",
   "item.anothertune.bull_of_hell_music_disc.desc": "Heaven Pierce Her - Bull of Hell",
-
   "item.anothertune.do_robots_dream_of_eternal_sleep_music_disc": "§bMusic Disc",
   "item.anothertune.do_robots_dream_of_eternal_sleep_music_disc.desc": "Heaven Pierce Her - Do Robots Dream Of Eternal Sleep?",
-
   "item.anothertune.hear_the_siren_song_call_of_death_music_disc": "§bMusic Disc",
   "item.anothertune.hear_the_siren_song_call_of_death_music_disc.desc": "Heaven Pierce Her - Hear! The Siren Song Call Of Death",
-
   "item.anothertune.suffering_leaves_suffering_leaves_music_disc": "§bMusic Disc",
   "item.anothertune.suffering_leaves_suffering_leaves_music_disc.desc": "Heaven Pierce Her - Suffering Leaves, Suffering Leaves",
-
   "item.anothertune.danse_macabre_music_disc": "§bMusic Disc",
   "item.anothertune.danse_macabre_music_disc.desc": "Heaven Pierce Her - Danse Macabre",
-
   "item.anothertune.in_absentia_logos_music_disc": "§bMusic Disc",
   "item.anothertune.in_absentia_logos_music_disc.desc": "Heaven Pierce Her - In Absentia ΛΟΓΟΣ",
-
   "item.anothertune.spiral_out_music_disc": "§bMusic Disc",
   "item.anothertune.spiral_out_music_disc.desc": "Heaven Pierce Her - Spiral Out (Keep Going)",
-
   "item.anothertune.never_odd_or_even_music_disc": "§bMusic Disc",
   "item.anothertune.never_odd_or_even_music_disc.desc": "Heaven Pierce Her - Never Odd Or Even",
-
   "item.anothertune.no_devil_lived_on_music_disc": "§bMusic Disc",
   "item.anothertune.no_devil_lived_on_music_disc.desc": "Heaven Pierce Her - No Devil Lived On",
-
   "item.anothertune.mirror_rim_music_disc": "§bMusic Disc",
   "item.anothertune.mirror_rim_music_disc.desc": "Heaven Pierce Her - Mirror Rim",
-
   "item.anothertune.the_break_music_disc": "§bMusic Disc",
   "item.anothertune.the_break_music_disc.desc": "Heaven Pierce Her - The Break (Crimson Glass deComposition)",
-
   "item.anothertune.the_shattering_circle_music_disc": "§bMusic Disc",
   "item.anothertune.the_shattering_circle_music_disc.desc": "Heaven Pierce Her - The Shattering Circle, or:A Charade of Shadeless Ones And Zeros Rearranged ad Nihilum",
-
   "item.anothertune.event_horizon_music_disc": "§bMusic Disc",
   "item.anothertune.event_horizon_music_disc.desc": "Heaven Pierce Her - Event Horizon (Reach For The Sun and Burn! Burn! Burn!)",
-
   "item.anothertune.final_flight_music_disc": "§bMusic Disc",
   "item.anothertune.final_flight_music_disc.desc": "Heaven Pierce Her - The Fall",
-
   "item.anothertune.altars_of_apostasy_music_disc": "§4Music Disc",
   "item.anothertune.altars_of_apostasy_music_disc.desc": "Heaven Pierce Her - §4Altars Of Apostasy",
-
   "item.anothertune.ni4ni_music_disc": "§bMusic Disc",
   "item.anothertune.ni4ni_music_disc.desc": "Vylet Pony - NI4NI",
-
-
-
-
   "item.anothertune.miku_essence": "Miku Essence",
-
   "creativetab.tutorial_tab": "Another Tune"
+
+
+
+
+,
+  "item.anothertune.mosi_mosi_music_disc": "§bMusic Disc",
+  "item.anothertune.mosi_mosi_music_disc.desc": "mosi mosi - Sasane"
 }

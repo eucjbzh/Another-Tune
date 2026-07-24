@@ -599,4 +599,13 @@
       }
     ]
   }
+,
+  "mosimosi": {
+     "sounds": [
+      {
+        "name": "anothertune:mosimosi",
+        "stream": true
+      }
+    ]
+  }
 }
