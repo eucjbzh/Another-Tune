@@ -118,7 +118,12 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.TVTIME);
         simpleItem(ModItems.FLOWERMAN);
         simpleItem(ModItems.BLACKKNIFE);
+<<<<<<< Updated upstream
         simpleItem(ModItems.FALLENANGEL);
+=======
+        simpleItem(ModItems.STORYOFAWARRIOR);
+        simpleItem(ModItems.PURPLECOINSGREENMIX);
+>>>>>>> Stashed changes
 
     }
 

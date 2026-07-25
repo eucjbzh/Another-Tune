@@ -250,8 +250,15 @@ public class ModItems {
             () -> new RecordItem(6, ModSounds.FLOWERMAN, new Item.Properties().stacksTo(1),3840));
     public static final RegistryObject<Item> BLACKKNIFE = ITEMS.register("black_knife_music_disc",
             () -> new RecordItem(6, ModSounds.BLACKKNIFE, new Item.Properties().stacksTo(1),2342));
+<<<<<<< Updated upstream
     public static final RegistryObject<Item> FALLENANGEL = ITEMS.register("fallen_angel_music_disc",
             () -> new RecordItem(6, ModSounds.FALLENANGEL, new Item.Properties().stacksTo(1),2620));
+=======
+    public static final RegistryObject<Item> STORYOFAWARRIOR = ITEMS.register("story_of_a_warrior_music_disc",
+            () -> new RecordItem(6, ModSounds.STORYOFAWARRIOR, new Item.Properties().stacksTo(1),2598));
+    public static final RegistryObject<Item> PURPLECOINSGREENMIX = ITEMS.register("purple_coins_green_mix_music_disc",
+            () -> new RecordItem(6, ModSounds.PURPLECOINSGREENMIX, new Item.Properties().stacksTo(1),1996));
+>>>>>>> Stashed changes
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

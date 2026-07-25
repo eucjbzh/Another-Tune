@@ -68,7 +68,7 @@ def deletebykey(pathtoopen, key, linesafterdiscover):
 
 def updateJsons(title, author):
     LangAdd = (f'\n,  "item.anothertune.{title.lower().replace(" ","_")}_music_disc": "Â§bMusic Disc",\n'
-               f'  "item.anothertune.{title.lower().replace(" ","_")}_music_disc.desc": "{title} - {author}"'
+               f'  "item.anothertune.{title.lower().replace(" ","_")}_music_disc.desc": "{author} - {title}"'
                '\n}')
 
     LangFile = open(f"{rootjava}/src/main/resources/assets/anothertune/lang/en_us.json", "r+")

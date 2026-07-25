@@ -679,4 +679,22 @@
       }
     ]
   }
+
+  ,"storyofawarrior": {
+     "sounds": [
+      {
+        "name": "anothertune:storyofawarrior",
+        "stream": true
+      }
+    ]
+  }
+
+  ,"purplecoinsgreenmix": {
+     "sounds": [
+      {
+        "name": "anothertune:purplecoinsgreenmix",
+        "stream": true
+      }
+    ]
+  }
 }

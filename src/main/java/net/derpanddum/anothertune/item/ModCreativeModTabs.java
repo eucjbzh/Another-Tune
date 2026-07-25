@@ -111,7 +111,12 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.TVTIME.get());
                         pOutput.accept(ModItems.FLOWERMAN.get());
                         pOutput.accept(ModItems.BLACKKNIFE.get());
+<<<<<<< Updated upstream
                         pOutput.accept(ModItems.FALLENANGEL.get());
+=======
+                        pOutput.accept(ModItems.STORYOFAWARRIOR.get());
+                        pOutput.accept(ModItems.PURPLECOINSGREENMIX.get());
+>>>>>>> Stashed changes
                     })
                     .build());
 
