@@ -106,12 +106,9 @@ public class ModItemTagGenerator extends ItemTagsProvider {
         ItemTagList.add(ModItems.TVTIME.get());
         ItemTagList.add(ModItems.FLOWERMAN.get());
         ItemTagList.add(ModItems.BLACKKNIFE.get());
-<<<<<<< Updated upstream
         ItemTagList.add(ModItems.FALLENANGEL.get());
-=======
         ItemTagList.add(ModItems.STORYOFAWARRIOR.get());
         ItemTagList.add(ModItems.PURPLECOINSGREENMIX.get());
->>>>>>> Stashed changes
         this.tag(ItemTags.MUSIC_DISCS)
                 .add(ItemTagList.toArray(new Item[0]));
 

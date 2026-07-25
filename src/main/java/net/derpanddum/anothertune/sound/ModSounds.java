@@ -99,12 +99,9 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> TVTIME = registerSoundEvents("tvtime");
     public static final RegistryObject<SoundEvent> FLOWERMAN = registerSoundEvents("flowerman");
     public static final RegistryObject<SoundEvent> BLACKKNIFE = registerSoundEvents("blackknife");
-<<<<<<< Updated upstream
     public static final RegistryObject<SoundEvent> FALLENANGEL = registerSoundEvents("fallenangel");
-=======
     public static final RegistryObject<SoundEvent> STORYOFAWARRIOR = registerSoundEvents("storyofawarrior");
     public static final RegistryObject<SoundEvent> PURPLECOINSGREENMIX = registerSoundEvents("purplecoinsgreenmix");
->>>>>>> Stashed changes
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(AnotherTune.MOD_ID, name)));
