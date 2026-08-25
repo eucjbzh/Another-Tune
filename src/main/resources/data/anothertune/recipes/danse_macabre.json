@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "anothertune:suffering_leaves_suffering_leaves_music_disc"
+    },
+    {
+      "item": "dimdoors:eternal_fluid_bucket"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "result": {
+    "item": "anothertune:dance_macabre_music_disc",
+    "count": 1
+  }
+}

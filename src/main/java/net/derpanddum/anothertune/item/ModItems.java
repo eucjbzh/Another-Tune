@@ -5,6 +5,7 @@ import com.blakebr0.mysticalagriculture.item.EssenceItem;
 import net.derpanddum.anothertune.AnotherTune;
 import net.derpanddum.anothertune.sound.ModSounds;
 import net.minecraft.world.item.*;
+import net.minecraftforge.client.event.RegisterColorHandlersEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -232,10 +233,14 @@ public class ModItems {
     public static final RegistryObject<Item> ALTARSOFAPOSTASY = ITEMS.register("altars_of_apostasy_music_disc",
             () -> new RecordItem(6, ModSounds.ALTARSOFAPOSTASY, new Item.Properties().stacksTo(1),6820));
 
+    public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));
+
+    public static final RegistryObject<Item> FRAUDBASE = ITEMS.register("fraud_base_music_disc", () -> new Item(new Item.Properties().stacksTo(1)));
+
     public static final RegistryObject<Item> NI4NI = ITEMS.register("ni4ni_music_disc",
             () -> new RecordItem(6, ModSounds.NI4NI, new Item.Properties().stacksTo(1),5040));
     public static final RegistryObject<Item> MOSIMOSI = ITEMS.register("mosi_mosi_music_disc",
-            () -> new RecordItem(6, ModSounds.MOSIMOSI, new Item.Properties().stacksTo(1),3276));    public static final RegistryObject<Item> MIKU_ESSENCE = ITEMS.register("miku_essence", () -> new EssenceItem(CropTier.ELEMENTAL));
+            () -> new RecordItem(6, ModSounds.MOSIMOSI, new Item.Properties().stacksTo(1),3276));
     public static final RegistryObject<Item> SUNSETOFSEVENSUNS = ITEMS.register("sunset_of_seven_suns_music_disc",
             () -> new RecordItem(6, ModSounds.SUNSETOFSEVENSUNS, new Item.Properties().stacksTo(1),1920));    // public static final RegistryObject<Item> TEST_CROP = ITEMS.register("huh", new Crop(CropTier.ELEMENTAL, CropType.RESOURCE, LazyIngredient.item("minecraft:gravel")));
     public static final RegistryObject<Item> DOUBLEDGASTERSTHEME = ITEMS.register("double_d_gasters_theme_music_disc",

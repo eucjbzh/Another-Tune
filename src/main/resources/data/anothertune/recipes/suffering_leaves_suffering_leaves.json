@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:blank_record"
+    },
+    {
+      "item": "minecraft:pale_oak_sapling"
+    },
+    {
+      "item": "minecraft:quartz"
+    }
+  ],
+  "result": {
+    "item": "anothertune:suffering_leaves_suffering_leaves_music_disc",
+    "count": 1
+  }
+}

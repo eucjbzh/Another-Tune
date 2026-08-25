@@ -99,6 +99,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.SUFFERINGLEAVESSUFFERINGLEAVES);
         simpleItem(ModItems.DANSEMACABRE);
         simpleItem(ModItems.WARWITHOUTREASONHESPERUSCOVER);
+        simpleItem(ModItems.FRAUDBASE);
         simpleItem(ModItems.INABSENTIALOGOS);
         simpleItem(ModItems.SPIRALOUT);
         simpleItem(ModItems.NEVERODDOREVEN);

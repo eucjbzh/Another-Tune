@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "anothertune:fraud_base_music_disc"
+    },
+    {
+      "item": "minecraft:"
+    },
+    {
+      "item": "minecraft:"
+    }
+  ],
+  "result": {
+    "item": "anothertune:in_abstenia_logos_music_disc",
+    "count": 1
+  }
+}
