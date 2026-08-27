@@ -6,14 +6,17 @@
       "item": "anothertune:fraud_base_music_disc"
     },
     {
-      "item": "minecraft:"
+      "item": "minecraft:lime_carpet"
     },
     {
-      "item": "minecraft:"
+      "item": "minecraft:mangrove_door"
+    },
+    {
+      "item": "minecraft:ender_pearl"
     }
   ],
   "result": {
-    "item": "anothertune:in_abstenia_logos_music_disc",
+    "item": "anothertune:in_absentia_logos_music_disc",
     "count": 1
   }
 }

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "anothertune:fraud_base_music_disc"
+    },
+    {
+      "item": "minecraft:elytra"
+    },
+    {
+      "item": "dimdoors:eternal_fluid_bucket"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    }
+  ],
+  "result": {
+    "item": "anothertune:the_fall_music_disc"
+  }
+}

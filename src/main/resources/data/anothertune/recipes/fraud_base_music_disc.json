@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:pink_dye"
+      "item": "mysticalagriculture:blank_record"
     },
     {
       "item": "minecraft:magenta_dye"
@@ -15,7 +15,7 @@
       "item": "minecraft:blue_dye"
     },
     {
-      "item": "mysticalagraculture:blank_record"
+      "item": "minecraft:pink_dye"
     },
     {
       "item": "minecraft:orange_dye"

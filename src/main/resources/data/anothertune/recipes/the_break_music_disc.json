@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "anothertune:fraud_base_music_disc"
+    },
+    {
+      "item": "minecraft:crimson_stem"
+    },
+    {
+      "item": "minecraft:red_stained_glass"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    }
+  ],
+  "result": {
+    "item": "anothertune:the_break_music_disc"
+  }
+}

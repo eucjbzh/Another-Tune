@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#PN",
+    "RFB",
+    "=oE"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:vine"
+    },
+    "P": {
+      "item": "minecraft:purple_glazed_terracotta"
+    },
+    "N": {
+      "item": "minecraft:netherrack"
+    },
+    "R": {
+      "item": "minecraft:raw_gold"
+    },
+    "F": {
+      "item": "anothertune:fraud_base_music_disc"
+    },
+    "B": {
+      "item": "minecraft:blue_glazed_terracotta"
+    },
+    "=": {
+      "item": "minecraft:red_nether_bricks"
+    },
+    "o": {
+      "item": "minecraft:quartz_pillar"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "anothertune:event_horizon_music_disc"
+  }
+}
