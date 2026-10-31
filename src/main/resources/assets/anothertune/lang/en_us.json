@@ -45,7 +45,7 @@
   "item.anothertune.war_music_disc.desc": "Heaven Pierce Her - War",
   "item.anothertune.war_without_reason_music_disc": "§bMusic Disc",
   "item.anothertune.war_without_reason_music_disc.desc": "Heaven Pierce Her - War Without Reason",
-  "item.anothertune.order_music_disc": "§bMusic Disc",
+  "item.anothertune.order_music_disc": "§eMusic Disc",
   "item.anothertune.order_music_disc.desc": "Heaven Pierce Her - Order",
   "item.anothertune.wind_over_the_flower_music_disc": "§eMusic Disc",
   "item.anothertune.wind_over_the_flower_music_disc.desc": "Balloon - Wind Over The Flower",
@@ -183,5 +183,8 @@
   "item.anothertune.story_of_a_warrior_music_disc.desc": "Story of a Warrior - John Michael Howell"
 
 ,  "item.anothertune.purple_coins_green_mix_music_disc": "§bMusic Disc",
-  "item.anothertune.purple_coins_green_mix_music_disc.desc": "Purple Coins Green Mix - Juno Songs"
+  "item.anothertune.purple_coins_green_mix_music_disc.desc": "Purple Coins Green Mix - Juno Songs",
+
+   "item.anothertune.the_cybergrind_music_disc": "§bMusic Disc",
+  "item.anothertune.the_cybergrind_music_disc.desc": "The CyberGrind - Meganeko"
 }

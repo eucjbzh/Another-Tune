@@ -261,6 +261,8 @@ public class ModItems {
             () -> new RecordItem(6, ModSounds.STORYOFAWARRIOR, new Item.Properties().stacksTo(1),2598));
     public static final RegistryObject<Item> PURPLECOINSGREENMIX = ITEMS.register("purple_coins_green_mix_music_disc",
             () -> new RecordItem(6, ModSounds.PURPLECOINSGREENMIX, new Item.Properties().stacksTo(1),1996));
+    public static final RegistryObject<Item> THECYBERGRIND = ITEMS.register("the_cybergrind_music_disc",
+            () -> new RecordItem(6, ModSounds.THECYBERGRIND, new Item.Properties().stacksTo(1),6100));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

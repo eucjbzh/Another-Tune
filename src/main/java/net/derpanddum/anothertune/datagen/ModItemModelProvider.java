@@ -122,6 +122,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.FALLENANGEL);
         simpleItem(ModItems.STORYOFAWARRIOR);
         simpleItem(ModItems.PURPLECOINSGREENMIX);
+        simpleItem(ModItems.THECYBERGRIND);
 
     }
 

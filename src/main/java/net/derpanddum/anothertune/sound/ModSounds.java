@@ -102,6 +102,7 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> FALLENANGEL = registerSoundEvents("fallenangel");
     public static final RegistryObject<SoundEvent> STORYOFAWARRIOR = registerSoundEvents("storyofawarrior");
     public static final RegistryObject<SoundEvent> PURPLECOINSGREENMIX = registerSoundEvents("purplecoinsgreenmix");
+    public static final RegistryObject<SoundEvent> THECYBERGRIND = registerSoundEvents("thecybergrind");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(AnotherTune.MOD_ID, name)));

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "anothertune:item/the_cybergrind_music_disc"
+  }
+}

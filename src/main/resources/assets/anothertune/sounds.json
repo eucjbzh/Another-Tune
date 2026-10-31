@@ -697,4 +697,13 @@
       }
     ]
   }
+
+  ,"thecybergrind": {
+  "sounds": [
+    {
+      "name": "anothertune:thecybergrind",
+      "stream": true
+    }
+  ]
+}
 }
