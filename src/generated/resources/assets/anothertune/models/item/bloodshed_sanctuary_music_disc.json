@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "anothertune:item/bloodshed_sanctuary_music_disc"
+  }
+}

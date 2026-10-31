@@ -111,6 +111,7 @@ public class ModItemTagGenerator extends ItemTagsProvider {
         ItemTagList.add(ModItems.STORYOFAWARRIOR.get());
         ItemTagList.add(ModItems.PURPLECOINSGREENMIX.get());
         ItemTagList.add(ModItems.THECYBERGRIND.get());
+        ItemTagList.add(ModItems.BLOODSHEDSANCTUARY.get());
         this.tag(ItemTags.MUSIC_DISCS)
                 .add(ItemTagList.toArray(new Item[0]));
 

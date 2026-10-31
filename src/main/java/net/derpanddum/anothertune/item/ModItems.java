@@ -263,6 +263,8 @@ public class ModItems {
             () -> new RecordItem(6, ModSounds.PURPLECOINSGREENMIX, new Item.Properties().stacksTo(1),1996));
     public static final RegistryObject<Item> THECYBERGRIND = ITEMS.register("the_cybergrind_music_disc",
             () -> new RecordItem(6, ModSounds.THECYBERGRIND, new Item.Properties().stacksTo(1),6100));
+    public static final RegistryObject<Item> BLOODSHEDSANCTUARY = ITEMS.register("bloodshed_sanctuary_music_disc",
+            () -> new RecordItem(6, ModSounds.BLOODSHEDSANCTUARY, new Item.Properties().stacksTo(1),6220));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

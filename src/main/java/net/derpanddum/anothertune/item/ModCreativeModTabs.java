@@ -116,6 +116,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.STORYOFAWARRIOR.get());
                         pOutput.accept(ModItems.PURPLECOINSGREENMIX.get());
                         pOutput.accept(ModItems.THECYBERGRIND.get());
+                        pOutput.accept(ModItems.BLOODSHEDSANCTUARY.get());
                     })
                     .build());
 
